@@ -331,5 +331,338 @@
     "retry_later": true,
     "error": "gb_429_no_other_source",
     "en_title": "Travel to Ixtlan"
+  },
+  "376": {
+    "ok": true,
+    "cover": "covers/0376.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7159132-L.jpg",
+    "author": "Tad Crawford",
+    "source": "openlibrary_en:title",
+    "matched_title": "The secret life of money",
+    "en_title": "The secret life of money"
+  },
+  "359": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Everything is fine! Five elements of well-being"
+  },
+  "398": {
+    "ok": true,
+    "cover": "covers/0398.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14365242-L.jpg",
+    "author": "Андрей Курпатов",
+    "source": "openlibrary_ru",
+    "matched_title": "КРАСНАЯ ТАБЛЕТКА-2. ВСЯ ПРАВДА ОБ УСПЕХЕ",
+    "en_title": "Red pill-2"
+  },
+  "308": {
+    "ok": true,
+    "cover": "covers/0308.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10870837-L.jpg",
+    "author": "Terry Blackhawk, Peter Markus, Matthew Olzmann",
+    "source": "openlibrary_en:title",
+    "matched_title": "To Light a Fire",
+    "en_title": "Light a fire"
+  },
+  "365": {
+    "ok": true,
+    "cover": "covers/0365.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10199947-L.jpg",
+    "author": "S. C. Stephens",
+    "source": "openlibrary_en:title",
+    "matched_title": "Effortless",
+    "en_title": "Effortless"
+  },
+  "304": {
+    "ok": true,
+    "cover": "covers/0304.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/739614-L.jpg",
+    "author": "Winsor McCay",
+    "source": "openlibrary_en:q",
+    "matched_title": "Winsor McCay",
+    "en_title": "Happy people walking around the city just like that"
+  },
+  "346": {
+    "ok": true,
+    "cover": "covers/0346.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/5728812-L.jpg",
+    "author": "R. B. Sparkman",
+    "source": "openlibrary_en:title",
+    "matched_title": "The art of manipulation",
+    "en_title": "The art of manipulation"
+  },
+  "381": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "The power of now"
+  },
+  "425": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": null
+  },
+  "375": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Ho'o pono pono"
+  },
+  "390": {
+    "ok": true,
+    "cover": "covers/0390.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7890578-L.jpg",
+    "author": "Chuck Palahniuk",
+    "source": "openlibrary_en:title",
+    "matched_title": "Fight Club",
+    "en_title": "fight club"
+  },
+  "400": {
+    "ok": true,
+    "cover": "covers/0400.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12560954-L.jpg",
+    "author": "Walter B. Cannon",
+    "source": "openlibrary_en:title",
+    "matched_title": "The wisdom of the body",
+    "en_title": "Wisdom of the body"
+  },
+  "293": {
+    "ok": true,
+    "cover": "covers/0293.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6553019-L.jpg",
+    "author": "Joseph Murphy",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Power of Your Subconscious Mind",
+    "en_title": "The power of your subconscious"
+  },
+  "434": {
+    "ok": true,
+    "cover": "covers/0434.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13314878-L.jpg",
+    "author": "Dale Carnegie",
+    "source": "openlibrary_en:q",
+    "matched_title": "How to Win Friends and Influence People",
+    "en_title": "Take, give and enjoy"
+  },
+  "330": {
+    "ok": true,
+    "cover": "covers/0330.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1666195-L.jpg",
+    "author": "Zella Jackson",
+    "source": "openlibrary_en:title",
+    "matched_title": "The art of selling art",
+    "en_title": "The art of selling"
+  },
+  "340": {
+    "ok": true,
+    "cover": "covers/0340.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11994844-L.jpg",
+    "author": "Антон Павлович Чехов",
+    "source": "openlibrary_ru",
+    "matched_title": "Страх",
+    "en_title": "Fear"
+  },
+  "378": {
+    "ok": true,
+    "cover": "covers/0378.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10355397-L.jpg",
+    "author": "Jay Shetty",
+    "source": "openlibrary_en:title",
+    "matched_title": "Think Like a Monk",
+    "en_title": "Think like a monk"
+  },
+  "423": {
+    "ok": true,
+    "cover": "covers/0423.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12817712-L.jpg",
+    "author": "Armstrong Sperry",
+    "source": "openlibrary_en:title",
+    "matched_title": "Call It Courage",
+    "en_title": "Courage"
+  },
+  "336": {
+    "ok": true,
+    "cover": "covers/0336.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9186495-L.jpg",
+    "author": "Jumpin Media Books",
+    "source": "openlibrary_en:q",
+    "matched_title": "Poems verses words of rhyme",
+    "en_title": "Stone Face, Black Heart"
+  },
+  "337": {
+    "ok": true,
+    "cover": "covers/0337.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8157718-L.jpg",
+    "author": "Mark Twain",
+    "source": "openlibrary_en:q",
+    "matched_title": "Adventures of Huckleberry Finn",
+    "en_title": "Give me an idea"
+  },
+  "335": {
+    "ok": true,
+    "cover": "covers/0335.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/109570-L.jpg",
+    "author": "Ian Fleming",
+    "source": "openlibrary_en:title",
+    "matched_title": "Live and let die",
+    "en_title": "Live"
+  },
+  "292": {
+    "ok": true,
+    "cover": "covers/0292.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/865059-L.jpg",
+    "author": "David Deida",
+    "source": "openlibrary_en:q",
+    "matched_title": "The way of the superior man",
+    "en_title": "Become the master of your emotions"
+  },
+  "281": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Non-random chance"
+  },
+  "421": {
+    "ok": true,
+    "cover": "covers/0421.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/15199344-L.jpg",
+    "author": "SuperSummary",
+    "source": "openlibrary_en:q",
+    "matched_title": "Study Guide The Personal Librarian by Marie Benedict and Victoria Christopher Murray",
+    "en_title": "Where dreams lead"
+  },
+  "355": {
+    "ok": true,
+    "cover": "covers/0355.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10153705-L.jpg",
+    "author": "Gabriel Weinberg, Lauren McCann",
+    "source": "openlibrary_en:title",
+    "matched_title": "Super Thinking",
+    "en_title": "Super thinking"
+  },
+  "401": {
+    "ok": true,
+    "cover": "covers/0401.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12552566-L.jpg",
+    "author": "Айн Рэнд, Ayn Rand",
+    "source": "openlibrary_ru",
+    "matched_title": "Источник",
+    "en_title": "Source"
+  },
+  "362": {
+    "ok": true,
+    "cover": "covers/0362.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/2937995-L.jpg",
+    "author": "William T. Collins",
+    "source": "openlibrary_en:title",
+    "matched_title": "Puzzle Pack",
+    "en_title": "Puzzle"
+  },
+  "298": {
+    "ok": true,
+    "cover": "covers/0298.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9202574-L.jpg",
+    "author": "Ryland Peters & Small",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Art of Napkin Folding",
+    "en_title": "The art of small steps"
+  },
+  "432": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Shards of childhood trauma"
+  },
+  "353": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Buddha and the rebel"
+  },
+  "334": {
+    "ok": true,
+    "cover": "covers/0334.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/2910128-L.jpg",
+    "author": "Sandra Rudloff",
+    "source": "openlibrary_en:q",
+    "matched_title": "Flexible Fare",
+    "en_title": "Flexible personality"
+  },
+  "404": {
+    "ok": true,
+    "cover": "covers/0404.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12731258-L.jpg",
+    "author": "Michael Roach",
+    "source": "openlibrary_en:title",
+    "matched_title": "Karmic management",
+    "en_title": "Karmic management"
+  },
+  "347": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Hello habits! 22 practices for cultivating talent"
+  },
+  "286": {
+    "ok": true,
+    "cover": "covers/0286.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7914051-L.jpg",
+    "author": "Diana Palmer",
+    "source": "openlibrary_en:title",
+    "matched_title": "Will of steel",
+    "en_title": "Will of steel"
+  },
+  "455": {
+    "ok": true,
+    "cover": "covers/0455.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12062491-L.jpg",
+    "author": "Neale Donald Walsch",
+    "source": "openlibrary_en:title",
+    "matched_title": "Conversations With God, Book 3",
+    "en_title": "Conversations with God"
+  },
+  "428": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "451 degrees Fahrenheit"
+  },
+  "410": {
+    "ok": true,
+    "cover": "covers/0410.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9261636-L.jpg",
+    "author": "Kelly McGonigal",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Joy of Movement",
+    "en_title": "The joy of movement"
+  },
+  "350": {
+    "ok": true,
+    "cover": "covers/0350.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9684231-L.jpg",
+    "author": "Michael Maher",
+    "source": "openlibrary_en:q",
+    "matched_title": "Psychology",
+    "en_title": "Psychology of consent"
+  },
+  "399": {
+    "ok": true,
+    "cover": "covers/0399.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7517222-L.jpg",
+    "author": "Vadim Zeland",
+    "source": "openlibrary_en:title",
+    "matched_title": "Reality Transurfing",
+    "en_title": "Reality Transurfing"
+  },
+  "280": {
+    "ok": true,
+    "cover": "covers/0280.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10928811-L.jpg",
+    "author": "Jamell Crouthers",
+    "source": "openlibrary_en:title",
+    "matched_title": "America Under Mind Control",
+    "en_title": "Mind under control"
   }
 }
