@@ -33,10 +33,15 @@ npx --yes serve site
 - Сайт: https://puholet-sketch.github.io/TelegaBoook/
 - Публикация: GitHub Pages из папки `docs/`
 
-### Обновление каталога
+### Обложки (надёжный пайплайн)
 
 ```bash
+# основной способ: translate → Open Library → Google Books → Wikipedia
+# качает JPG локально, умеет продолжать с места остановки
+python scripts/enrich_covers_reliable.py
+
+# пересборка каталога без повторного поиска обложек
 python scripts/build_catalog.py
-# опционально, медленно (после cooldown API):
-python scripts/enrich_covers_slow.py
 ```
+
+Обложки хранятся в `site/covers/XXXX.jpg` (и зеркало в `docs/covers/`). SVG остаётся fallback.
