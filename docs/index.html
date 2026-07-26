@@ -20,6 +20,7 @@
         <span class="brand__text">Telega<span>Boook</span></span>
       </a>
       <nav class="nav" aria-label="Ссылки">
+        <a href="#charts">Топ</a>
         <a href="#catalog">Каталог</a>
         <a href="https://github.com/puholet-sketch/TelegaBoook" target="_blank" rel="noopener">GitHub</a>
         <a class="nav__cta" href="https://web.telegram.org/a/#-1001167188175" target="_blank" rel="noopener">Канал</a>
@@ -36,14 +37,35 @@
         Отсортировано по вовлечённости аудитории — лайкам и комментариям.
       </p>
       <div class="hero__actions">
-        <a class="btn btn--primary" href="#catalog">Открыть каталог</a>
-        <a class="btn btn--ghost" href="https://puholet-sketch.github.io/oleg-sorvanov/#life" target="_blank" rel="noopener">В портфолио</a>
+        <a class="btn btn--primary" href="#charts">Смотреть топ</a>
+        <a class="btn btn--ghost" href="#catalog">Весь каталог</a>
       </div>
     </header>
 
     <section class="strip" aria-label="О источнике">
       Собрано из Telegram-канала <strong>«Книги на миллион»</strong>.
       Картинки из постов не используются — единый визуальный стиль и обложки из открытых источников.
+    </section>
+
+    <section class="charts" id="charts" aria-label="Топ книг">
+      <div class="charts__head">
+        <h2>Топ по вовлечённости</h2>
+        <p>Горизонтальные рейтинги: лайки, просмотры и комментарии. Ширина бара — доля от лидера в своей категории.</p>
+      </div>
+      <div class="charts__grid">
+        <article class="chart-panel" data-metric="likes">
+          <h3>Самые лайкнутые</h3>
+          <div class="chart-bars" id="chart-likes"></div>
+        </article>
+        <article class="chart-panel" data-metric="views">
+          <h3>Самые просматриваемые</h3>
+          <div class="chart-bars" id="chart-views"></div>
+        </article>
+        <article class="chart-panel" data-metric="comments">
+          <h3>Самые комментируемые</h3>
+          <div class="chart-bars" id="chart-comments"></div>
+        </article>
+      </div>
     </section>
 
     <div class="toolbar" id="catalog">

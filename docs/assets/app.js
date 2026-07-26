@@ -4,10 +4,19 @@ const state = {
   query: "",
 };
 
+const TOP_N = 8;
 const $ = (sel) => document.querySelector(sel);
 
 function fmt(n) {
   return new Intl.NumberFormat("ru-RU").format(n || 0);
+}
+
+function fmtCompact(n) {
+  const v = n || 0;
+  if (v >= 1_000_000) return `${(v / 1_000_000).toFixed(v >= 10_000_000 ? 0 : 1).replace(".0", "")} млн`;
+  if (v >= 10_000) return `${Math.round(v / 1000)} тыс`;
+  if (v >= 1000) return `${(v / 1000).toFixed(1).replace(".0", "")} тыс`;
+  return fmt(v);
 }
 
 function sortBooks(list) {
@@ -34,6 +43,74 @@ function filtered() {
     });
   }
   return sortBooks(list);
+}
+
+function topBy(metric) {
+  return [...state.books]
+    .filter((b) => (b[metric] || 0) > 0)
+    .sort((a, b) => (b[metric] || 0) - (a[metric] || 0))
+    .slice(0, TOP_N);
+}
+
+function renderChart(containerId, metric) {
+  const el = $(containerId);
+  if (!el) return;
+  const rows = topBy(metric);
+  const max = rows[0]?.[metric] || 1;
+
+  el.innerHTML = rows
+    .map((b, i) => {
+      const value = b[metric] || 0;
+      const pct = Math.max(4, Math.round((value / max) * 100));
+      const short = (b.title || "").length > 42 ? `${b.title.slice(0, 40)}…` : b.title;
+      return `
+        <div class="bar-row" title="${escapeHtml(b.title)} · ${fmt(value)}">
+          <div class="bar-row__label">
+            <span class="bar-row__rank">#${i + 1}</span>
+            <span class="bar-row__title">${escapeHtml(short)}</span>
+          </div>
+          <div class="bar-row__track" aria-hidden="true">
+            <div class="bar-row__fill" style="--w:${pct}%"></div>
+          </div>
+          <div class="bar-row__value">${metric === "views" ? fmtCompact(value) : fmt(value)}</div>
+        </div>`;
+    })
+    .join("");
+}
+
+function renderCharts() {
+  renderChart("#chart-likes", "likes");
+  renderChart("#chart-views", "views");
+  renderChart("#chart-comments", "comments");
+  observeCharts();
+}
+
+function observeCharts() {
+  const section = $("#charts");
+  if (!section) return;
+
+  const reveal = () => section.classList.add("is-visible");
+
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    reveal();
+    return;
+  }
+
+  if (!("IntersectionObserver" in window)) {
+    reveal();
+    return;
+  }
+
+  const io = new IntersectionObserver(
+    (entries) => {
+      if (entries.some((e) => e.isIntersecting)) {
+        reveal();
+        io.disconnect();
+      }
+    },
+    { threshold: 0.25 }
+  );
+  io.observe(section);
 }
 
 function render() {
@@ -99,6 +176,7 @@ async function boot() {
     state.sort = e.target.value;
     render();
   });
+  renderCharts();
   render();
 }
 
