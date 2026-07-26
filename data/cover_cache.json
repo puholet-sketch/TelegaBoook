@@ -1,0 +1,335 @@
+{
+  "1": {
+    "ok": true,
+    "cover": "covers/0001.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+    "author": "Bible",
+    "source": "openlibrary_en:q",
+    "matched_title": "Bible",
+    "en_title": "Cafe at the end of the earth"
+  },
+  "402": {
+    "ok": true,
+    "cover": "covers/0402.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12664926-L.jpg",
+    "author": "Tim Tebow, A. J. Gregory",
+    "source": "openlibrary_en:title",
+    "matched_title": "Mission Possible",
+    "en_title": "Mission Possible"
+  },
+  "322": {
+    "ok": true,
+    "cover": "covers/0322.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11671687-L.jpg",
+    "author": "Barclay",
+    "source": "openlibrary_en:title",
+    "matched_title": "Lion'S Heart",
+    "en_title": "Lion heart"
+  },
+  "387": {
+    "ok": true,
+    "cover": "covers/0387.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10655401-L.jpg",
+    "author": "Henry Emmons",
+    "source": "openlibrary_en:q",
+    "matched_title": "The chemistry of calm",
+    "en_title": "The Power of Calm"
+  },
+  "371": {
+    "ok": true,
+    "cover": "covers/0371.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12643419-L.jpg",
+    "author": "Stephenie Meyer",
+    "source": "openlibrary_en:q",
+    "matched_title": "Breaking Dawn",
+    "en_title": "I don't like everything"
+  },
+  "356": {
+    "ok": true,
+    "cover": "covers/0356.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/428620-L.jpg",
+    "author": "Peter Thomson undifferentiated",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Secrets of Communication",
+    "en_title": "Secrets of communication"
+  },
+  "313": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "The subconscious can do anything"
+  },
+  "358": {
+    "ok": true,
+    "cover": "covers/0358.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1064088-L.jpg",
+    "author": "Paul J. Hamel",
+    "source": "openlibrary_en:title",
+    "matched_title": "Better English Every Day",
+    "en_title": "Better every day"
+  },
+  "338": {
+    "ok": true,
+    "cover": "covers/0338.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12489251-L.jpg",
+    "author": "Richard Bach",
+    "source": "openlibrary_en:title",
+    "matched_title": "Jonathan Livingston Seagull",
+    "en_title": "Seagull Jonathan Livingston"
+  },
+  "296": {
+    "ok": true,
+    "cover": "covers/0296.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10680072-L.jpg",
+    "author": "David Kyle  PhD",
+    "source": "openlibrary_en:title",
+    "matched_title": "Energy Teachings of The Three",
+    "en_title": "Three energies"
+  },
+  "417": {
+    "ok": true,
+    "cover": "covers/0417.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11368515-L.jpg",
+    "author": "Elizabeth Oldfield",
+    "source": "openlibrary_en:title",
+    "matched_title": "Ego trap",
+    "en_title": "Ego"
+  },
+  "333": {
+    "ok": true,
+    "cover": "covers/0333.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14542536-L.jpg",
+    "author": "Napoleon Hill",
+    "source": "openlibrary_en:title",
+    "matched_title": "Think and Grow Rich",
+    "en_title": "Think and grow rich"
+  },
+  "377": {
+    "ok": true,
+    "cover": "covers/0377.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9278292-L.jpg",
+    "author": "Jane Austen",
+    "source": "openlibrary_en:q",
+    "matched_title": "Sense and Sensibility",
+    "en_title": "Go and do it"
+  },
+  "389": {
+    "ok": true,
+    "cover": "covers/0389.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/15223359-L.jpg",
+    "author": "David Cameron Gikandi",
+    "source": "openlibrary_en:title",
+    "matched_title": "A happy pocket full of money",
+    "en_title": "Happy pocket full of money"
+  },
+  "374": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "The art of loving"
+  },
+  "348": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "I'm always lucky! How to make luck an everyday reality"
+  },
+  "392": {
+    "ok": true,
+    "cover": "covers/0392.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14365241-L.jpg",
+    "author": null,
+    "source": "openlibrary_ru",
+    "matched_title": "Теория невероятности. Как мечтать, чтобы сбывалось, как планировать, чтобы достигалось",
+    "en_title": "Improbability theory"
+  },
+  "368": {
+    "ok": true,
+    "cover": "covers/0368.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14508330-L.jpg",
+    "author": "Gordon Ferguson",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Power of Gratitude",
+    "en_title": "The Power of Gratitude"
+  },
+  "369": {
+    "ok": true,
+    "cover": "covers/0369.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9633216-L.jpg",
+    "author": "Doug Hooper",
+    "source": "openlibrary_en:title",
+    "matched_title": "You are what you think",
+    "en_title": "You are what you think"
+  },
+  "384": {
+    "ok": true,
+    "cover": "covers/0384.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8733893-L.jpg",
+    "author": "Dafydd Stuttard, Marcus Pinto",
+    "source": "openlibrary_en:q",
+    "matched_title": "The web application hacker's handbook",
+    "en_title": "Obstacle as a path"
+  },
+  "416": {
+    "ok": true,
+    "cover": "covers/0416.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6669388-L.jpg",
+    "author": "Susan Kirby, Susan E. Kirby",
+    "source": "openlibrary_en:title",
+    "matched_title": "A No-Fuss Christmas",
+    "en_title": "No fuss"
+  },
+  "412": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "8 rituals for success in life and business from the monk who sold his Ferrari"
+  },
+  "465": {
+    "ok": true,
+    "cover": "covers/0465.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7463992-L.jpg",
+    "author": "Ben Jonson, Elizabeth Cook",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Alchemist, 1612",
+    "en_title": "Alchemist"
+  },
+  "354": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Become invulnerable"
+  },
+  "386": {
+    "ok": true,
+    "cover": "covers/0386.jpg",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/ru/9/9f/Trotzdem_Ja_zum_Leben_sagen.jpg",
+    "author": null,
+    "source": "wikipedia",
+    "matched_title": "Сказать жизни «Да!»: психолог в концлагере",
+    "en_title": "Say “Yes” to life! Psychologist in a concentration camp"
+  },
+  "373": {
+    "ok": true,
+    "cover": "covers/0373.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8876695-L.jpg",
+    "author": "James George Frazer",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Golden Bough",
+    "en_title": "The art of caring for the soul"
+  },
+  "396": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Nanohabits"
+  },
+  "418": {
+    "ok": true,
+    "cover": "covers/0418.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10840651-L.jpg",
+    "author": "C.J. Archer",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Magician's Diary",
+    "en_title": "Magician's Diary"
+  },
+  "329": {
+    "ok": true,
+    "cover": "covers/0329.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13314878-L.jpg",
+    "author": "Dale Carnegie",
+    "source": "openlibrary_en:title",
+    "matched_title": "How to Win Friends and Influence People",
+    "en_title": "How to win friends and influence people"
+  },
+  "339": {
+    "ok": true,
+    "cover": "covers/0339.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11135544-L.jpg",
+    "author": "Skateboarding Geschenke für Männer und Frauen Skateboarder Kalender, Merchment",
+    "source": "openlibrary_en:q",
+    "matched_title": "KALENDER 2020",
+    "en_title": "Listen like an artist"
+  },
+  "394": {
+    "ok": true,
+    "cover": "covers/0394.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/551262-L.jpg",
+    "author": "Eckhart Tolle",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Power of Now",
+    "en_title": "No ego, no problems"
+  },
+  "467": {
+    "ok": true,
+    "cover": "covers/0467.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14351142-L.jpg",
+    "author": "George Orwell, Amélie Audiberti",
+    "source": "openlibrary_en:title",
+    "matched_title": "1984",
+    "en_title": "1984"
+  },
+  "307": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Fate sends signs or fuck it"
+  },
+  "320": {
+    "ok": true,
+    "cover": "covers/0320.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7091098-L.jpg",
+    "author": "Robert J. Sawyer",
+    "source": "openlibrary_en:title",
+    "matched_title": "Triggers",
+    "en_title": "Triggers"
+  },
+  "380": {
+    "ok": true,
+    "cover": "covers/0380.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/739614-L.jpg",
+    "author": "Winsor McCay",
+    "source": "openlibrary_en:q",
+    "matched_title": "Winsor McCay",
+    "en_title": "13 rules for strong-willed people"
+  },
+  "360": {
+    "ok": true,
+    "cover": "covers/0360.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/2823426-L.jpg",
+    "author": "Todd Denny",
+    "source": "openlibrary_en:q",
+    "matched_title": "Unexpected Allies",
+    "en_title": "Unexpected stop"
+  },
+  "370": {
+    "ok": true,
+    "cover": "covers/0370.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13883095-L.jpg",
+    "author": "Stan Tatkin",
+    "source": "openlibrary_en:title",
+    "matched_title": "Your Brain on Love",
+    "en_title": "Love your brain"
+  },
+  "406": {
+    "ok": true,
+    "cover": "covers/0406.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10765568-L.jpg",
+    "author": "Robert Allen",
+    "source": "openlibrary_en:q",
+    "matched_title": "Improve your memory",
+    "en_title": "Develop your brain"
+  },
+  "382": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Buddha, the brain and the neurophysiology of happiness"
+  },
+  "361": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Travel to Ixtlan"
+  }
+}
