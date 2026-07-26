@@ -664,5 +664,428 @@
     "source": "openlibrary_en:title",
     "matched_title": "America Under Mind Control",
     "en_title": "Mind under control"
+  },
+  "326": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Morning rituals"
+  },
+  "351": {
+    "ok": true,
+    "cover": "covers/0351.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12875748-L.jpg",
+    "author": "Charles Dickens",
+    "source": "openlibrary_en:q",
+    "matched_title": "A Christmas Carol",
+    "en_title": "Forward to the past! Stage III"
+  },
+  "306": {
+    "ok": true,
+    "cover": "covers/0306.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14798385-L.jpg",
+    "author": "Sally Spray, Mark Ruffle",
+    "source": "openlibrary_en:title",
+    "matched_title": "Space Station Academy : Destination",
+    "en_title": "Station \"destination\""
+  },
+  "442": {
+    "ok": true,
+    "cover": "covers/0442.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9223765-L.jpg",
+    "author": "Jack London",
+    "source": "openlibrary_en:title",
+    "matched_title": "Martin Eden",
+    "en_title": "Martin Eden"
+  },
+  "408": {
+    "ok": true,
+    "cover": "covers/0408.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10109563-L.jpg",
+    "author": "Gene Luen Yang",
+    "source": "openlibrary_en:title",
+    "matched_title": "Avatar",
+    "en_title": "Avatar"
+  },
+  "315": {
+    "ok": true,
+    "cover": "covers/0315.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7866127-L.jpg",
+    "author": "Nathan Levenson",
+    "source": "openlibrary_en:q",
+    "matched_title": "Smarter Budgets Smarter Schools How To Survive And Thrive In Tight Times",
+    "en_title": "Tight time management"
+  },
+  "415": {
+    "ok": true,
+    "cover": "covers/0415.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14320244-L.jpg",
+    "author": "Ernest Larkin",
+    "source": "openlibrary_en:q",
+    "matched_title": "Silent presence",
+    "en_title": "Process of presence"
+  },
+  "444": {
+    "ok": true,
+    "cover": "covers/0444.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7517222-L.jpg",
+    "author": "Vadim Zeland",
+    "source": "openlibrary_en:title",
+    "matched_title": "Reality Transurfing",
+    "en_title": "Reality Transurfing"
+  },
+  "411": {
+    "ok": true,
+    "cover": "covers/0411.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1346166-L.jpg",
+    "author": "Rodney Davies",
+    "source": "openlibrary_en:title",
+    "matched_title": "From the Other World",
+    "en_title": "From the other world"
+  },
+  "323": {
+    "ok": true,
+    "cover": "covers/0323.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7517222-L.jpg",
+    "author": "Vadim Zeland",
+    "source": "openlibrary_en:title",
+    "matched_title": "Reality Transurfing",
+    "en_title": "Reality Transurfing"
+  },
+  "303": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "MAXI results"
+  },
+  "357": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "From DELL without intermediaries"
+  },
+  "345": {
+    "ok": true,
+    "cover": "covers/0345.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1149571-L.jpg",
+    "author": "Robert Pollack, Robert E. Pollack",
+    "source": "openlibrary_en:title",
+    "matched_title": "The faith of biology & the biology of faith",
+    "en_title": "Biology of Faith"
+  },
+  "363": {
+    "ok": true,
+    "cover": "covers/0363.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11762762-L.jpg",
+    "author": "Melody Wilding LMSW",
+    "source": "openlibrary_en:title",
+    "matched_title": "Trust Yourself",
+    "en_title": "Trust yourself"
+  },
+  "316": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "I don't owe a damn thing! Manifesto against remorse"
+  },
+  "300": {
+    "ok": true,
+    "cover": "covers/0300.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10760836-L.jpg",
+    "author": "Valérie Ménard",
+    "source": "openlibrary_en:title",
+    "matched_title": "Hakuna matata",
+    "en_title": "Hakuna Matata"
+  },
+  "388": {
+    "ok": true,
+    "cover": "covers/0388.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8157718-L.jpg",
+    "author": "Mark Twain",
+    "source": "openlibrary_en:q",
+    "matched_title": "Adventures of Huckleberry Finn",
+    "en_title": "Second chance to die"
+  },
+  "305": {
+    "ok": true,
+    "cover": "covers/0305.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8196513-L.jpg",
+    "author": "Paul J. Halpern",
+    "source": "openlibrary_en:title",
+    "matched_title": "Art of the deal",
+    "en_title": "The Art of the Deal"
+  },
+  "447": {
+    "ok": true,
+    "cover": "covers/0447.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/146008-L.jpg",
+    "author": "Ken Dancyger, Jeff Rush",
+    "source": "openlibrary_en:title",
+    "matched_title": "Alternative scriptwriting",
+    "en_title": "Alternate"
+  },
+  "366": {
+    "ok": true,
+    "cover": "covers/0366.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/750542-L.jpg",
+    "author": "Gregg Braden",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Divine Matrix",
+    "en_title": "Divine Matrix"
+  },
+  "349": {
+    "ok": true,
+    "cover": "covers/0349.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/156107-L.jpg",
+    "author": "José Silva, Philip Miele",
+    "source": "openlibrary_en:q",
+    "matched_title": "Silva Method",
+    "en_title": "Silva method"
+  },
+  "452": {
+    "ok": true,
+    "cover": "covers/0452.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1668146-L.jpg",
+    "author": "Hellmut Hager, Susan C. Scott",
+    "source": "openlibrary_en:q",
+    "matched_title": "Light on the Eternal City",
+    "en_title": "Eternal Observer"
+  },
+  "311": {
+    "ok": true,
+    "cover": "covers/0311.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8888032-L.jpg",
+    "author": "Carol Hand",
+    "source": "openlibrary_en:title",
+    "matched_title": "12 Healthy Habits for Life",
+    "en_title": "Habits for life"
+  },
+  "405": {
+    "ok": true,
+    "cover": "covers/0405.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/825540-L.jpg",
+    "author": "James S. Stewart",
+    "source": "openlibrary_en:q",
+    "matched_title": "A Man in Christ",
+    "en_title": "Man in isolation"
+  },
+  "407": {
+    "ok": true,
+    "cover": "covers/0407.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14591386-L.jpg",
+    "author": "Agatha Christie",
+    "source": "openlibrary_en:q",
+    "matched_title": "A Pocket Full of Rye",
+    "en_title": "Full F"
+  },
+  "279": {
+    "ok": true,
+    "cover": "covers/0279.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9043271-L.jpg",
+    "author": "Russ Whitney",
+    "source": "openlibrary_en:title",
+    "matched_title": "Inner Voice",
+    "en_title": "Inner voice"
+  },
+  "331": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Twelve Gates of Enlightened Everyday Life"
+  },
+  "309": {
+    "ok": true,
+    "cover": "covers/0309.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10840008-L.jpg",
+    "author": "Julia Cameron",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Artist's Way",
+    "en_title": "The Artist's Path"
+  },
+  "427": {
+    "ok": true,
+    "cover": "covers/0427.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/288398-L.jpg",
+    "author": "Nancy O'Hara",
+    "source": "openlibrary_en:title",
+    "matched_title": "Serenity in Motion: Inner Peace",
+    "en_title": "Inner Serenity"
+  },
+  "393": {
+    "ok": true,
+    "cover": "covers/0393.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/51225-L.jpg",
+    "author": "Seymour Simon",
+    "source": "openlibrary_en:title",
+    "matched_title": "Destination",
+    "en_title": "Destination"
+  },
+  "391": {
+    "ok": true,
+    "cover": "covers/0391.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/739614-L.jpg",
+    "author": "Winsor McCay",
+    "source": "openlibrary_en:q",
+    "matched_title": "Winsor McCay",
+    "en_title": "How I made 500,000,000 dollars"
+  },
+  "277": {
+    "ok": true,
+    "cover": "covers/0277.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1223613-L.jpg",
+    "author": "Noelle K. Zeiner",
+    "source": "openlibrary_en:title",
+    "matched_title": "Nothing ordinary here",
+    "en_title": "Nothing ordinary"
+  },
+  "419": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Plot architecture"
+  },
+  "318": {
+    "ok": true,
+    "cover": "covers/0318.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11634733-L.jpg",
+    "author": "Otto Neumann Sverdrup, Ethel Harriet Hearn",
+    "source": "openlibrary_en:title",
+    "matched_title": "New Land",
+    "en_title": "New land"
+  },
+  "352": {
+    "ok": true,
+    "cover": "covers/0352.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9216263-L.jpg",
+    "author": "Albert-László Barabási",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Formula",
+    "en_title": "Formula"
+  },
+  "372": {
+    "ok": true,
+    "cover": "covers/0372.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9382637-L.jpg",
+    "author": "Y. Kuwahara",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Korean Wave",
+    "en_title": "Korean wave"
+  },
+  "275": {
+    "ok": true,
+    "cover": "covers/0275.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/2071614-L.jpg",
+    "author": "Manying Ip, Nigel Murphy, Beven Yee",
+    "source": "openlibrary_en:q",
+    "matched_title": "Unfolding history, evolving identity",
+    "en_title": "IP history"
+  },
+  "314": {
+    "ok": true,
+    "cover": "covers/0314.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1509961-L.jpg",
+    "author": "Michael R. Trimble",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Soul in the Brain",
+    "en_title": "Brain and soul"
+  },
+  "344": {
+    "ok": true,
+    "cover": "covers/0344.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9136263-L.jpg",
+    "author": "Brian \"Head\" Welch",
+    "source": "openlibrary_en:title",
+    "matched_title": "With My Eyes Wide Open",
+    "en_title": "With my eyes wide open"
+  },
+  "324": {
+    "ok": true,
+    "cover": "covers/0324.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8760239-L.jpg",
+    "author": "Bill Burnett, Evans, Dave, Dave Evans",
+    "source": "openlibrary_en:title",
+    "matched_title": "Design your life",
+    "en_title": "Design your life"
+  },
+  "278": {
+    "ok": true,
+    "cover": "covers/0278.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11614190-L.jpg",
+    "author": "Joey Lott",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Mother of All Antioxidants",
+    "en_title": "You are the guru"
+  },
+  "284": {
+    "ok": true,
+    "cover": "covers/0284.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11297037-L.jpg",
+    "author": "Mary Lou Kownacki",
+    "source": "openlibrary_en:title",
+    "matched_title": "Monk in the inner city",
+    "en_title": "City Monk"
+  },
+  "328": {
+    "ok": true,
+    "cover": "covers/0328.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9078085-L.jpg",
+    "author": "Charles Duhigg",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Power of Habit",
+    "en_title": "The power of habit"
+  },
+  "321": {
+    "ok": true,
+    "cover": "covers/0321.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10517556-L.jpg",
+    "author": "Aaron Becker",
+    "source": "openlibrary_en:title",
+    "matched_title": "Journey",
+    "en_title": "Journey"
+  },
+  "276": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Testosterone play and other behavioral biology issues"
+  },
+  "294": {
+    "ok": true,
+    "cover": "covers/0294.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/724543-L.jpg",
+    "author": "Allan Pease",
+    "source": "openlibrary_en:title",
+    "matched_title": "Questions Are the Answers",
+    "en_title": "Questions are answers"
+  },
+  "422": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Good stress as a way to become stronger and better"
+  },
+  "272": {
+    "ok": true,
+    "cover": "covers/0272.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8901737-L.jpg",
+    "author": "Suzanne O'Sullivan",
+    "source": "openlibrary_en:title",
+    "matched_title": "It's All in Your Head",
+    "en_title": "It's all in your head"
+  },
+  "482": {
+    "ok": true,
+    "cover": "covers/0482.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/2086882-L.jpg",
+    "author": "Tom Hopkins",
+    "source": "openlibrary_en:title",
+    "matched_title": "Mission Possible, Volume 2",
+    "en_title": "Mission Possible 2"
+  },
+  "429": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "On the porn needle"
   }
 }
