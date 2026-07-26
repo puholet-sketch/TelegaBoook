@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TelegaBoook — Книги на миллион</title>
+  <meta name="description" content="Каталог книг из Telegram-канала «Книги на миллион»: названия, авторы, обложки и краткие выводы, отсортированные по лайкам и комментариям.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <div class="brand"><span class="brand-mark" aria-hidden="true"></span>TelegaBoook</div>
+      <p class="lede">
+        Каталог разборов из канала «Книги на миллион»: названия, авторы, обложки из открытых источников
+        и краткие выводы. Сортировка по лайкам и комментариям Telegram.
+      </p>
+    </header>
+
+    <div class="toolbar">
+      <input id="search" type="search" placeholder="Поиск: название, автор, идея…" autocomplete="off">
+      <select id="sort" aria-label="Сортировка">
+        <option value="likes">Сначала больше лайков</option>
+        <option value="comments">Сначала больше комментариев</option>
+        <option value="views">Сначала больше просмотров</option>
+        <option value="number">По номеру книги ↓</option>
+      </select>
+      <a class="chip" href="https://github.com/puholet-sketch/TelegaBoook" target="_blank" rel="noopener" style="align-self:center;text-decoration:none">GitHub</a>
+    </div>
+
+    <div class="stats">
+      <span class="chip">В каталоге <strong id="count">—</strong></span>
+      <span class="chip">Показано <strong id="shown">—</strong></span>
+      <span class="chip">Топ лайков <strong id="topLikes">—</strong></span>
+    </div>
+
+    <main id="grid" class="grid" aria-live="polite"></main>
+
+    <footer class="site-foot">
+      <span>Данные канала собраны для личного каталога. Обложки — Open Library / Google Books.</span>
+      <a href="https://web.telegram.org/a/#-1001167188175" target="_blank" rel="noopener">Открыть канал</a>
+    </footer>
+  </div>
+  <script src="./assets/app.js"></script>
+</body>
+</html>

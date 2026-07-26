@@ -1,0 +1,25 @@
+{
+  "context_version": 2,
+  "timestamp": "2026-07-26T22:00:00+03:00",
+  "context_hash": "v2",
+  "active_files": [
+    ".ai/CONTEXT.md",
+    "data/raw_posts.json",
+    "data/books.json",
+    "site/index.html",
+    "scripts/build_catalog.py"
+  ],
+  "active_file_hashes": {},
+  "decisions": [
+    "Каталог: только Книга #N, без «Моя N книга»",
+    "Обложки: стандартизированные SVG (не картинки из TG); опционально Google Books",
+    "Выводы: очищенные аннотации из постов канала",
+    "Комменты >2500 или аномалии относительно likes/views обнуляются"
+  ],
+  "blockers": [
+    "Google Books / Wikipedia временно 429 при массовом обогащении"
+  ],
+  "last_error": null,
+  "retry_count": 0,
+  "next_action": "Push site to GitHub Pages"
+}

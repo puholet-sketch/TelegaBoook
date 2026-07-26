@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv/
+*.log
+data/enrich_cache.json
