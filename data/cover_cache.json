@@ -1087,5 +1087,2927 @@
     "retry_later": true,
     "error": "gb_429_no_other_source",
     "en_title": "On the porn needle"
+  },
+  "426": {
+    "ok": true,
+    "cover": "covers/0426.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+    "author": "Bible",
+    "source": "openlibrary_en:q",
+    "matched_title": "Bible",
+    "en_title": "Racing with happiness"
+  },
+  "379": {
+    "ok": true,
+    "cover": "covers/0379.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/5907353-L.jpg",
+    "author": "Leander Jan De Bekker",
+    "source": "openlibrary_en:q",
+    "matched_title": "The serio-comic profession",
+    "en_title": "Writer as a profession"
+  },
+  "431": {
+    "ok": true,
+    "cover": "covers/0431.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/239238-L.jpg",
+    "author": "Richard Bach",
+    "source": "openlibrary_en:title",
+    "matched_title": "Illusions",
+    "en_title": "Illusions"
+  },
+  "395": {
+    "ok": true,
+    "cover": "covers/0395.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6268048-L.jpg",
+    "author": "James Allen",
+    "source": "openlibrary_en:q",
+    "matched_title": "As a man thinketh",
+    "en_title": "Creating a bestseller"
+  },
+  "302": {
+    "ok": true,
+    "cover": "covers/0302.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8620134-L.jpg",
+    "author": "Emily P. Freeman",
+    "source": "openlibrary_en:title",
+    "matched_title": "THE NEXT RIGHT THING",
+    "en_title": "The next right thing"
+  },
+  "283": {
+    "ok": true,
+    "cover": "covers/0283.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11217285-L.jpg",
+    "author": "SuperSummary",
+    "source": "openlibrary_en:q",
+    "matched_title": "Study Guide",
+    "en_title": "Distance of happiness"
+  },
+  "459": {
+    "ok": true,
+    "cover": "covers/0459.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/15155833-L.jpg",
+    "author": "J. K. Rowling",
+    "source": "openlibrary_en:q",
+    "matched_title": "Harry Potter and the Philosopher's Stone",
+    "en_title": "The day I learned to live"
+  },
+  "327": {
+    "ok": true,
+    "cover": "covers/0327.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/492405-L.jpg",
+    "author": "Diana Cooper",
+    "source": "openlibrary_en:q",
+    "matched_title": "Light Up Your Life",
+    "en_title": "Light of your life"
+  },
+  "273": {
+    "ok": true,
+    "cover": "covers/0273.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/481352-L.jpg",
+    "author": "Stephen M. R. Covey, Rebecca R. Merrill",
+    "source": "openlibrary_en:title",
+    "matched_title": "The SPEED of Trust",
+    "en_title": "Speed ​​of trust"
+  },
+  "449": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Discover your purpose with the monk who sold his Ferrari"
+  },
+  "325": {
+    "ok": true,
+    "cover": "covers/0325.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9048263-L.jpg",
+    "author": "Robert Burns",
+    "source": "openlibrary_en:q",
+    "matched_title": "The complete poetical works",
+    "en_title": "Why do we grow old"
+  },
+  "413": {
+    "ok": true,
+    "cover": "covers/0413.jpg",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Rotunda_Or_2.jpg",
+    "author": null,
+    "source": "wikipedia",
+    "matched_title": "Солнечная тропа",
+    "en_title": "Salty trail"
+  },
+  "414": {
+    "ok": true,
+    "cover": "covers/0414.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/5615383-L.jpg",
+    "author": "H. D. M. Spence-Jones",
+    "source": "openlibrary_en:q",
+    "matched_title": "The early Christians in Rome",
+    "en_title": "Mor, disciple of death"
+  },
+  "383": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Crazy Rich Russians"
+  },
+  "468": {
+    "ok": true,
+    "cover": "covers/0468.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9149275-L.jpg",
+    "author": "Craig W Hagin",
+    "source": "openlibrary_en:title",
+    "matched_title": "Don't Be Stupid",
+    "en_title": "DON'T BE STUPID"
+  },
+  "462": {
+    "ok": true,
+    "cover": "covers/0462.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/198120-L.jpg",
+    "author": "Cormac McCarthy",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Road",
+    "en_title": "Road"
+  },
+  "274": {
+    "ok": true,
+    "cover": "covers/0274.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/5623158-L.jpg",
+    "author": "American Sunday-School Union.",
+    "source": "openlibrary_en:title",
+    "matched_title": "Sketch of the plan of the American Sunday-school union for supplying a choice library of moral, religious, and instructive books, for public and private schools, families, factories, &c., with a descriptive catalogue of the library",
+    "en_title": "Factory of choice"
+  },
+  "299": {
+    "ok": true,
+    "cover": "covers/0299.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/5854701-L.jpg",
+    "author": "Silas Farmer",
+    "source": "openlibrary_en:q",
+    "matched_title": "The history of Detroit and Michigan",
+    "en_title": "Leader on the skating rink"
+  },
+  "301": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Customer focus without a budget"
+  },
+  "341": {
+    "ok": true,
+    "cover": "covers/0341.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8851138-L.jpg",
+    "author": "Morgan Simon",
+    "source": "openlibrary_en:title",
+    "matched_title": "Real Impact",
+    "en_title": "Real Impact"
+  },
+  "342": {
+    "ok": true,
+    "cover": "covers/0342.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1140269-L.jpg",
+    "author": "Ingmar Persson",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Retreat of Reason",
+    "en_title": "Predictable irrationality"
+  },
+  "282": {
+    "ok": true,
+    "cover": "covers/0282.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9122941-L.jpg",
+    "author": "Gen. Hugh Shelton, Ronald Levinson, Malcolm McConnell",
+    "source": "openlibrary_en:title",
+    "matched_title": "Without Hesitation",
+    "en_title": "Without hesitation"
+  },
+  "436": {
+    "ok": true,
+    "cover": "covers/0436.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14408958-L.jpg",
+    "author": "Jorge Luis Borges",
+    "source": "openlibrary_en:title",
+    "matched_title": "El Aleph",
+    "en_title": "Aleph"
+  },
+  "435": {
+    "ok": true,
+    "cover": "covers/0435.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12434155-L.jpg",
+    "author": "Charlie Morley",
+    "source": "openlibrary_en:title",
+    "matched_title": "Dreams of Awakening",
+    "en_title": "Awakening Dreams"
+  },
+  "291": {
+    "ok": true,
+    "cover": "covers/0291.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/409546-L.jpg",
+    "author": "Lois McMaster Bujold",
+    "source": "openlibrary_en:title",
+    "matched_title": "Memory",
+    "en_title": "Memory"
+  },
+  "441": {
+    "ok": true,
+    "cover": "covers/0441.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8808194-L.jpg",
+    "author": "Jon J. Muth",
+    "source": "openlibrary_en:title",
+    "matched_title": "Zen Happiness",
+    "en_title": "Zen happiness"
+  },
+  "385": {
+    "ok": true,
+    "cover": "covers/0385.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/390585-L.jpg",
+    "author": "Jim Camp",
+    "source": "openlibrary_en:q",
+    "matched_title": "Start with no",
+    "en_title": "To start with"
+  },
+  "295": {
+    "ok": true,
+    "cover": "covers/0295.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8798900-L.jpg",
+    "author": "Marc Lesser",
+    "source": "openlibrary_en:title",
+    "matched_title": "Seven Practices of a Mindful Leader",
+    "en_title": "Seven practices of a mindful leader"
+  },
+  "439": {
+    "ok": true,
+    "cover": "covers/0439.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/4849549-L.jpg",
+    "author": "孙武 (Sun Tzu), Stephen F. Kaufman, Lionel Giles",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Art of War",
+    "en_title": "Think in other formats"
+  },
+  "397": {
+    "ok": true,
+    "cover": "covers/0397.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8204622-L.jpg",
+    "author": "Kjell Nordstrom, Jonas Ridderstrale",
+    "source": "openlibrary_en:title",
+    "matched_title": "Funky business",
+    "en_title": "Funky business"
+  },
+  "364": {
+    "ok": true,
+    "cover": "covers/0364.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/364782-L.jpg",
+    "author": "Louis P. Pojman",
+    "source": "openlibrary_en:title",
+    "matched_title": "Philosophy",
+    "en_title": "Philosophy"
+  },
+  "424": {
+    "ok": true,
+    "cover": "covers/0424.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/999455-L.jpg",
+    "author": "Juri Rytcheu",
+    "source": "openlibrary_ru",
+    "matched_title": "Магические числа",
+    "en_title": "Numbers"
+  },
+  "289": {
+    "ok": true,
+    "cover": "covers/0289.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10527843-L.jpg",
+    "author": "Lewis Carroll",
+    "source": "openlibrary_en:q",
+    "matched_title": "Alice's Adventures in Wonderland",
+    "en_title": "Life in FUN style"
+  },
+  "332": {
+    "ok": true,
+    "cover": "covers/0332.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14734470-L.jpg",
+    "author": "Gail Doby",
+    "source": "openlibrary_en:title",
+    "matched_title": "Business Breakthrough",
+    "en_title": "Business breakthrough"
+  },
+  "430": {
+    "ok": true,
+    "cover": "covers/0430.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+    "author": "Bible",
+    "source": "openlibrary_en:q",
+    "matched_title": "Bible",
+    "en_title": "How to make a good script great"
+  },
+  "464": {
+    "ok": true,
+    "cover": "covers/0464.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14846827-L.jpg",
+    "author": "Khaled Hosseini",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Kite Runner",
+    "en_title": "The Kite Runner"
+  },
+  "448": {
+    "ok": true,
+    "cover": "covers/0448.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6801179-L.jpg",
+    "author": "Yoshiko Uchida",
+    "source": "openlibrary_en:title",
+    "matched_title": "Journey home",
+    "en_title": "Journey Home"
+  },
+  "317": {
+    "ok": true,
+    "cover": "covers/0317.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11142875-L.jpg",
+    "author": "Jennifer Belair Sakarian",
+    "source": "openlibrary_en:title",
+    "matched_title": "I'm okay, okay",
+    "en_title": "I'm okay"
+  },
+  "297": {
+    "ok": true,
+    "cover": "covers/0297.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/4202828-L.jpg",
+    "author": "John Naisbitt",
+    "source": "openlibrary_en:title",
+    "matched_title": "Megatrends",
+    "en_title": "Megatrends"
+  },
+  "319": {
+    "ok": true,
+    "cover": "covers/0319.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13444857-L.jpg",
+    "author": "Kay Thackray",
+    "source": "openlibrary_en:q",
+    "matched_title": "Sticky blood explained",
+    "en_title": "Sticky branding"
+  },
+  "287": {
+    "ok": true,
+    "cover": "covers/0287.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8155661-L.jpg",
+    "author": "William Shakespeare",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Tempest",
+    "en_title": "Going beyond the best"
+  },
+  "440": {
+    "ok": true,
+    "cover": "covers/0440.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9071881-L.jpg",
+    "author": "Laurent Gounelle",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Man Who Wanted to Be Happy. Laurent Gounelle",
+    "en_title": "The man who wanted to be happy"
+  },
+  "453": {
+    "ok": true,
+    "cover": "covers/0453.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/977375-L.jpg",
+    "author": "Bernard Werber, Bernard Werber",
+    "source": "openlibrary_en:title",
+    "matched_title": "Les Thanatonautes",
+    "en_title": "Thanatonautes"
+  },
+  "433": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Colorless Tsukuru Tazaki and his years of wanderings"
+  },
+  "443": {
+    "ok": true,
+    "cover": "covers/0443.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8840825-L.jpg",
+    "author": "Yoav Blum",
+    "source": "openlibrary_en:title",
+    "matched_title": "The coincidence makers",
+    "en_title": "Coincidence Makers"
+  },
+  "310": {
+    "ok": true,
+    "cover": "covers/0310.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11647405-L.jpg",
+    "author": "Perry Underwood, Rob Fischer",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Power of Your Story for Men",
+    "en_title": "The power of your story"
+  },
+  "451": {
+    "ok": true,
+    "cover": "covers/0451.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10315805-L.jpg",
+    "author": "Edmund Husserl, Dorion Cairns",
+    "source": "openlibrary_en:q",
+    "matched_title": "Cartesian meditations",
+    "en_title": "Ability to Foresee"
+  },
+  "473": {
+    "ok": true,
+    "cover": "covers/0473.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/2689853-L.jpg",
+    "author": "Shad Helmstetter",
+    "source": "openlibrary_en:title",
+    "matched_title": "What to Say When You Talk to Yourself About Selling",
+    "en_title": "What to say when talking to yourself"
+  },
+  "2": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Hitmakers are the science of popularity in the age of entertainment."
+  },
+  "403": {
+    "ok": true,
+    "cover": "covers/0403.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/240973-L.jpg",
+    "author": "Anne Lamott, Susan Bennett",
+    "source": "openlibrary_en:title",
+    "matched_title": "Bird by Bird",
+    "en_title": "Bird by bird"
+  },
+  "290": {
+    "ok": true,
+    "cover": "covers/0290.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9002334-L.jpg",
+    "author": "Peter A. Thiel, Blake Masters",
+    "source": "openlibrary_en:q",
+    "matched_title": "Zero to One",
+    "en_title": "How it all started"
+  },
+  "409": {
+    "ok": true,
+    "cover": "covers/0409.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8229224-L.jpg",
+    "author": "John Bunyan",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Pilgrim's Progress",
+    "en_title": "From the first sentence"
+  },
+  "285": {
+    "ok": true,
+    "cover": "covers/0285.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8229224-L.jpg",
+    "author": "John Bunyan",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Pilgrim's Progress",
+    "en_title": "The Gospel of IT"
+  },
+  "367": {
+    "ok": true,
+    "cover": "covers/0367.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/726207-L.jpg",
+    "author": "John R. Costanza",
+    "source": "openlibrary_en:q",
+    "matched_title": "Quantum Leap",
+    "en_title": "Quantum Leap in Marketing"
+  },
+  "312": {
+    "ok": true,
+    "cover": "covers/0312.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8813949-L.jpg",
+    "author": "Dan Millman",
+    "source": "openlibrary_en:title",
+    "matched_title": "The hidden school",
+    "en_title": "Hidden school"
+  },
+  "454": {
+    "ok": true,
+    "cover": "covers/0454.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/915359-L.jpg",
+    "author": "Rosamond Lehmann",
+    "source": "openlibrary_en:title",
+    "matched_title": "Dusty Answer",
+    "en_title": "Answer"
+  },
+  "437": {
+    "ok": true,
+    "cover": "covers/0437.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9448058-L.jpg",
+    "author": "Nicolas Paul Retsinas",
+    "source": "openlibrary_en:q",
+    "matched_title": "Moving forward",
+    "en_title": "Five moves forward"
+  },
+  "438": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "\"The Dream Shop\" by Mr. Thalergut"
+  },
+  "466": {
+    "ok": true,
+    "cover": "covers/0466.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/911109-L.jpg",
+    "author": "Richard Matheson",
+    "source": "openlibrary_en:q",
+    "matched_title": "I am Legend",
+    "en_title": "Brand legend"
+  },
+  "456": {
+    "ok": true,
+    "cover": "covers/0456.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/211529-L.jpg",
+    "author": "Marcus Aurelius",
+    "source": "openlibrary_en:q",
+    "matched_title": "Meditations",
+    "en_title": "Stoicism for every day"
+  },
+  "450": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Tuesdays with Morrie, or Life's Greatest Lesson"
+  },
+  "420": {
+    "ok": true,
+    "cover": "covers/0420.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10231580-L.jpg",
+    "author": "Conference on Global Poverty: Business Solutions and Approaches (2005 Harvard University)",
+    "source": "openlibrary_en:q",
+    "matched_title": "Business solutions for the global poor",
+    "en_title": "Financial leverage for good"
+  },
+  "343": {
+    "ok": true,
+    "cover": "covers/0343.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8249959-L.jpg",
+    "author": "Gertrude Stein",
+    "source": "openlibrary_en:title",
+    "matched_title": "Three Lives",
+    "en_title": "Three lives"
+  },
+  "271": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Give yourself a placebo"
+  },
+  "446": {
+    "ok": true,
+    "cover": "covers/0446.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11995404-L.jpg",
+    "author": "В Пелевин",
+    "source": "openlibrary_ru",
+    "matched_title": "Чапаев и Пустота",
+    "en_title": "Chapaev and Emptiness"
+  },
+  "445": {
+    "ok": true,
+    "cover": "covers/0445.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/251427-L.jpg",
+    "author": "Stephen M. Johnson",
+    "source": "openlibrary_en:title",
+    "matched_title": "Character styles",
+    "en_title": "Character"
+  },
+  "288": {
+    "ok": true,
+    "cover": "covers/0288.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7756553-L.jpg",
+    "author": "Inc Bolder Media",
+    "source": "openlibrary_en:title",
+    "matched_title": "Nick Jr Wow Wow Wubbzy Crochet Friends 3 Quirky Projects",
+    "en_title": "Wow! projects"
+  },
+  "461": {
+    "ok": true,
+    "cover": "covers/0461.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/924521-L.jpg",
+    "author": "Don Miguel Ruiz",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Four Agreements",
+    "en_title": "Four agreements"
+  },
+  "269": {
+    "ok": true,
+    "cover": "covers/0269.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/15184120-L.jpg",
+    "author": "Carl Withers",
+    "source": "openlibrary_en:title",
+    "matched_title": "Treasury of Games Riddles Mystery Stunts Tricks Tongue Twisters Rhymes Chanting Singing",
+    "en_title": "Tongue tricks"
+  },
+  "460": {
+    "ok": true,
+    "cover": "covers/0460.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9843495-L.jpg",
+    "author": "Diane K. Todd",
+    "source": "openlibrary_en:title",
+    "matched_title": "Shadow wind",
+    "en_title": "wind shadow"
+  },
+  "475": {
+    "ok": true,
+    "cover": "covers/0475.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/277935-L.jpg",
+    "author": "Ben M. Baglio",
+    "source": "openlibrary_en:title",
+    "matched_title": "Husky in a Hut",
+    "en_title": "Hut"
+  },
+  "265": {
+    "ok": true,
+    "cover": "covers/0265.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7517222-L.jpg",
+    "author": "Vadim Zeland",
+    "source": "openlibrary_en:title",
+    "matched_title": "Reality Transurfing",
+    "en_title": "Reality Transurfing"
+  },
+  "479": {
+    "ok": true,
+    "cover": "covers/0479.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13314878-L.jpg",
+    "author": "Dale Carnegie",
+    "source": "openlibrary_en:q",
+    "matched_title": "How to Win Friends and Influence People",
+    "en_title": "What do I talk about when I talk about running?"
+  },
+  "266": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "NO ZYA"
+  },
+  "3": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "Blood, sweat and pixels"
+  },
+  "463": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "472": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "471": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "457": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "458": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": null
+  },
+  "484": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "474": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "267": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Start with the main thing"
+  },
+  "470": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": null
+  },
+  "469": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "New guest of the cafe at the end of the earth"
+  },
+  "476": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "Spiritual path"
+  },
+  "270": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "Separate reality"
+  },
+  "6": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "Principles of success"
+  },
+  "264": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "Think again"
+  },
+  "263": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "Perfectionism"
+  },
+  "486": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "Dandelion wine"
+  },
+  "481": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "Philosophy of caring"
+  },
+  "268": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "Loyal client"
+  },
+  "485": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "4": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "5": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "483": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "10": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "262": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "261": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "11": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "259": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "478": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "258": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "Morning magic for writers"
+  },
+  "477": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "The world through Garp's eyes"
+  },
+  "9": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Secrets of Great Orators: Speak Like Churchill, Conduct Like Lincoln"
+  },
+  "221": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": "Before the coffee gets cold"
+  },
+  "8": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "7": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "480": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "13": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "21": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "260": {
+    "ok": false,
+    "failed": true,
+    "error": "no_candidates",
+    "en_title": null
+  },
+  "211": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Atomic Habits"
+  },
+  "222": {
+    "ok": true,
+    "cover": "covers/0222.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7629490-L.jpg",
+    "author": "Laura Vanderkam",
+    "source": "openlibrary_en:title",
+    "matched_title": "What The Most Successful People Do Before Breakfast How To Achieve More At Work And At Home",
+    "en_title": "What the most successful people do before breakfast"
+  },
+  "12": {
+    "ok": true,
+    "cover": "covers/0012.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8565607-L.jpg",
+    "author": "Stephen King",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Bachman Books (Long Walk / Rage / Roadwork / Running Man)",
+    "en_title": "The Mysterious Story of Billy Milligan"
+  },
+  "254": {
+    "ok": true,
+    "cover": "covers/0254.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/179813-L.jpg",
+    "author": "Bhagwan Rajneesh",
+    "source": "openlibrary_en:q",
+    "matched_title": "Joy",
+    "en_title": "Joy from within"
+  },
+  "233": {
+    "ok": true,
+    "cover": "covers/0233.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7729533-L.jpg",
+    "author": "Dave Kahle",
+    "source": "openlibrary_en:title",
+    "matched_title": "How To Sell Anything To Anyone Anytime",
+    "en_title": "How to sell anything to anyone"
+  },
+  "18": {
+    "ok": true,
+    "cover": "covers/0018.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8157718-L.jpg",
+    "author": "Mark Twain",
+    "source": "openlibrary_en:q",
+    "matched_title": "Adventures of Huckleberry Finn",
+    "en_title": "How to get things in order"
+  },
+  "220": {
+    "ok": true,
+    "cover": "covers/0220.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10709664-L.jpg",
+    "author": "Robert Jewett",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Living text",
+    "en_title": "Live text"
+  },
+  "237": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Mental Alchemist"
+  },
+  "218": {
+    "ok": true,
+    "cover": "covers/0218.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/5693728-L.jpg",
+    "author": "Swami Panchadasi, William Walker Atkinson",
+    "source": "openlibrary_en:q",
+    "matched_title": "Clairvoyance and occult powers",
+    "en_title": "Perfect mastery of body and mind"
+  },
+  "255": {
+    "ok": true,
+    "cover": "covers/0255.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1509961-L.jpg",
+    "author": "Michael R. Trimble",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Soul in the Brain",
+    "en_title": "Brain and soul"
+  },
+  "110": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "The subtle art of not giving a damn"
+  },
+  "242": {
+    "ok": true,
+    "cover": "covers/0242.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10410330-L.jpg",
+    "author": "Giselle Potter",
+    "source": "openlibrary_en:title",
+    "matched_title": "Tell Me What to Dream About",
+    "en_title": "What to dream about"
+  },
+  "247": {
+    "ok": true,
+    "cover": "covers/0247.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11300391-L.jpg",
+    "author": "Héctor García, Francesc Miralles",
+    "source": "openlibrary_en:title",
+    "matched_title": "Ikigai",
+    "en_title": "Ikigai"
+  },
+  "487": {
+    "ok": true,
+    "cover": "covers/0487.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12062491-L.jpg",
+    "author": "Neale Donald Walsch",
+    "source": "openlibrary_en:title",
+    "matched_title": "Conversations With God, Book 3",
+    "en_title": "Conversations with God"
+  },
+  "115": {
+    "ok": true,
+    "cover": "covers/0115.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/4151762-L.jpg",
+    "author": "Franklyn M. Branley, Arthur Dorros",
+    "source": "openlibrary_en:q",
+    "matched_title": "what makes day and night",
+    "en_title": "NO SY"
+  },
+  "257": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Control your happiness hormones"
+  },
+  "208": {
+    "ok": true,
+    "cover": "covers/0208.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7343224-L.jpg",
+    "author": "Charles H. Elliott, Ph.D., Laura L. Smith Ph.D.",
+    "source": "openlibrary_en:q",
+    "matched_title": "Overcoming Anxiety for Dummies",
+    "en_title": "Go where it's scary"
+  },
+  "256": {
+    "ok": true,
+    "cover": "covers/0256.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10469408-L.jpg",
+    "author": "Jon Gordon",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Energy Bus",
+    "en_title": "The energy bus"
+  },
+  "219": {
+    "ok": true,
+    "cover": "covers/0219.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9274589-L.jpg",
+    "author": "B. Joseph Pine",
+    "source": "openlibrary_en:title",
+    "matched_title": "The experience economy",
+    "en_title": "Experience Economy"
+  },
+  "20": {
+    "ok": true,
+    "cover": "covers/0020.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14597721-L.jpg",
+    "author": "Jennifer Brown",
+    "source": "openlibrary_en:title",
+    "matched_title": "Peril at the Peak",
+    "en_title": "At the peak"
+  },
+  "244": {
+    "ok": true,
+    "cover": "covers/0244.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8998280-L.jpg",
+    "author": "Meik Wiking",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Art of Making Memories",
+    "en_title": "The art of happy memories"
+  },
+  "252": {
+    "ok": true,
+    "cover": "covers/0252.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/666949-L.jpg",
+    "author": "Joseph Murphy",
+    "source": "openlibrary_en:title",
+    "matched_title": "Telepsychics",
+    "en_title": "Telepsychic"
+  },
+  "130": {
+    "ok": true,
+    "cover": "covers/0130.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10280868-L.jpg",
+    "author": "Hari Kunzru",
+    "source": "openlibrary_en:title",
+    "matched_title": "Red Pill",
+    "en_title": "Red pill"
+  },
+  "197": {
+    "ok": true,
+    "cover": "covers/0197.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8247882-L.jpg",
+    "author": "Dan Millman",
+    "source": "openlibrary_en:title",
+    "matched_title": "Peaceful warrior",
+    "en_title": "Peaceful warrior"
+  },
+  "250": {
+    "ok": true,
+    "cover": "covers/0250.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13249922-L.jpg",
+    "author": "Gary Marson",
+    "source": "openlibrary_en:title",
+    "matched_title": "Just Carry On Breathing",
+    "en_title": "Just carry on"
+  },
+  "14": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Millions on butterflies"
+  },
+  "60": {
+    "ok": true,
+    "cover": "covers/0060.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10839976-L.jpg",
+    "author": "Edward de Bono",
+    "source": "openlibrary_en:q",
+    "matched_title": "Thinking course",
+    "en_title": "Think slowly"
+  },
+  "216": {
+    "ok": true,
+    "cover": "covers/0216.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14421251-L.jpg",
+    "author": "Neil Allison Campbell, Lisa A. Urry, Michael L. Cain",
+    "source": "openlibrary_en:q",
+    "matched_title": "Campbell biology",
+    "en_title": "Brain mechanisms that make us rich"
+  },
+  "239": {
+    "ok": true,
+    "cover": "covers/0239.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10984386-L.jpg",
+    "author": "China Martens",
+    "source": "openlibrary_en:q",
+    "matched_title": "The future generation",
+    "en_title": "The mind rules the mood"
+  },
+  "217": {
+    "ok": true,
+    "cover": "covers/0217.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8862041-L.jpg",
+    "author": "Muhammad Yunus",
+    "source": "openlibrary_en:q",
+    "matched_title": "A world of three zeros",
+    "en_title": "The world of three zeros"
+  },
+  "224": {
+    "ok": true,
+    "cover": "covers/0224.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8401581-L.jpg",
+    "author": "Dave Gray",
+    "source": "openlibrary_en:title",
+    "matched_title": "Liminal Thinking",
+    "en_title": "Liminal thinking"
+  },
+  "249": {
+    "ok": true,
+    "cover": "covers/0249.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9214745-L.jpg",
+    "author": "Martin Lanik",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Leader Habit",
+    "en_title": "Leader Habits"
+  },
+  "22": {
+    "ok": true,
+    "cover": "covers/0022.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11163107-L.jpg",
+    "author": "Isacco Anedda",
+    "source": "openlibrary_en:q",
+    "matched_title": "Neuroplasticity Biohacking",
+    "en_title": "Brain biohacking"
+  },
+  "235": {
+    "ok": true,
+    "cover": "covers/0235.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11422193-L.jpg",
+    "author": "Джен Синсеро",
+    "source": "openlibrary_ru",
+    "matched_title": "Не ной",
+    "en_title": "NOT NOAH"
+  },
+  "243": {
+    "ok": true,
+    "cover": "covers/0243.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1454089-L.jpg",
+    "author": "Norman Melchert",
+    "source": "openlibrary_en:title",
+    "matched_title": "The great conversation",
+    "en_title": "Conversion"
+  },
+  "246": {
+    "ok": true,
+    "cover": "covers/0246.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1829852-L.jpg",
+    "author": "Newell Dwight Hillis",
+    "source": "openlibrary_en:title",
+    "matched_title": "Happiness Through the Redemption of Mankind from Drudgery Through Tools and Machinery",
+    "en_title": "Tools of Happiness"
+  },
+  "19": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "iPresentation"
+  },
+  "232": {
+    "ok": true,
+    "cover": "covers/0232.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8219313-L.jpg",
+    "author": "W. Chan Kim",
+    "source": "openlibrary_en:title",
+    "matched_title": "Blue ocean strategy",
+    "en_title": "Blue Ocean Strategy"
+  },
+  "241": {
+    "ok": true,
+    "cover": "covers/0241.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/798447-L.jpg",
+    "author": "Jerry Siegel, Don Cameron, Joe Shuster",
+    "source": "openlibrary_en:title",
+    "matched_title": "Superman",
+    "en_title": "Superman"
+  },
+  "253": {
+    "ok": true,
+    "cover": "covers/0253.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/855791-L.jpg",
+    "author": "Nassim Nicholas Taleb",
+    "source": "openlibrary_en:q",
+    "matched_title": "Fooled by randomness",
+    "en_title": "Fooled by chance"
+  },
+  "238": {
+    "ok": true,
+    "cover": "covers/0238.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14647753-L.jpg",
+    "author": "Kim Moore",
+    "source": "openlibrary_en:title",
+    "matched_title": "Juice Fasting Will Save Your Life",
+    "en_title": "Fasting will save your life"
+  },
+  "16": {
+    "ok": true,
+    "cover": "covers/0016.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12848441-L.jpg",
+    "author": "Joan Hall Hovey",
+    "source": "openlibrary_en:title",
+    "matched_title": "Nowhere to Hide",
+    "en_title": "Nowhere to hide"
+  },
+  "38": {
+    "ok": true,
+    "cover": "covers/0038.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1048892-L.jpg",
+    "author": "Charles Dickens",
+    "source": "openlibrary_en:q",
+    "matched_title": "David Copperfield",
+    "en_title": "Hormones of happiness"
+  },
+  "225": {
+    "ok": true,
+    "cover": "covers/0225.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11172914-L.jpg",
+    "author": "Steven D. Levitt, Stephen J. Dubner, Andrea Montero Cusset",
+    "source": "openlibrary_en:q",
+    "matched_title": "Freakonomics",
+    "en_title": "What do the winners think?"
+  },
+  "15": {
+    "ok": true,
+    "cover": "covers/0015.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/361877-L.jpg",
+    "author": "Jackson, Tim",
+    "source": "openlibrary_en:title",
+    "matched_title": "Inside Intel",
+    "en_title": "Inside Intel"
+  },
+  "205": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Club \"5 o'clock in the morning\""
+  },
+  "231": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Psychosomatics for normal psychos"
+  },
+  "245": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Launch! The Secret Formula for Internet Millionaires"
+  },
+  "210": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "StoryBrand method"
+  },
+  "223": {
+    "ok": true,
+    "cover": "covers/0223.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1064088-L.jpg",
+    "author": "Paul J. Hamel",
+    "source": "openlibrary_en:title",
+    "matched_title": "Better English Every Day",
+    "en_title": "Better every day"
+  },
+  "248": {
+    "ok": true,
+    "cover": "covers/0248.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1717247-L.jpg",
+    "author": "roxanne Paynter",
+    "source": "openlibrary_en:q",
+    "matched_title": "Soul Safari",
+    "en_title": "Safari for life"
+  },
+  "251": {
+    "ok": true,
+    "cover": "covers/0251.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/852840-L.jpg",
+    "author": "David E. Hoffman",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Oligarchs",
+    "en_title": "Oligarchs"
+  },
+  "17": {
+    "ok": true,
+    "cover": "covers/0017.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8229224-L.jpg",
+    "author": "John Bunyan",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Pilgrim's Progress",
+    "en_title": "Hymn to Ayn ​​Rand"
+  },
+  "199": {
+    "ok": true,
+    "cover": "covers/0199.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12410188-L.jpg",
+    "author": "Paul R. Krausman, Lisa K. Harris",
+    "source": "openlibrary_en:title",
+    "matched_title": "Cumulative Effects in Wildlife Management",
+    "en_title": "Cumulative effect"
+  },
+  "236": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "FOMO sapiens"
+  },
+  "26": {
+    "ok": true,
+    "cover": "covers/0026.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6605056-L.jpg",
+    "author": "Marguerite Yourcenar",
+    "source": "openlibrary_en:title",
+    "matched_title": "Le coup de grâce",
+    "en_title": "Coup"
+  },
+  "240": {
+    "ok": true,
+    "cover": "covers/0240.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1214505-L.jpg",
+    "author": "Georgios A Petropoulos",
+    "source": "openlibrary_en:title",
+    "matched_title": "Fenugreek",
+    "en_title": "Fenugreek"
+  },
+  "114": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "The power of the subconscious, or How to change your life in 4 weeks"
+  },
+  "234": {
+    "ok": true,
+    "cover": "covers/0234.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14505230-L.jpg",
+    "author": "Disney",
+    "source": "openlibrary_en:title",
+    "matched_title": "Path of the Jedi",
+    "en_title": "Path of the Jedi"
+  },
+  "40": {
+    "ok": true,
+    "cover": "covers/0040.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14632659-L.jpg",
+    "author": "Brian Moran, Michael Lennington, Tom Pile",
+    "source": "openlibrary_en:q",
+    "matched_title": "The 12-week year",
+    "en_title": "12 weeks a year"
+  },
+  "147": {
+    "ok": true,
+    "cover": "covers/0147.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/2292364-L.jpg",
+    "author": "Dale Carnegie",
+    "source": "openlibrary_en:q",
+    "matched_title": "Public Speaking and Influencing Men in Business",
+    "en_title": "Flexible consciousness"
+  },
+  "154": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Easy to talk! How to become a pleasant conversationalist by communicating confidently and at ease"
+  },
+  "190": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Millionaire with good karma"
+  },
+  "155": {
+    "ok": true,
+    "cover": "covers/0155.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12539702-L.jpg",
+    "author": "James Clear",
+    "source": "openlibrary_en:q",
+    "matched_title": "Atomic Habits",
+    "en_title": "An easy way to stop procrastinating"
+  },
+  "213": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "How emotions are born"
+  },
+  "24": {
+    "ok": true,
+    "cover": "covers/0024.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12885616-L.jpg",
+    "author": "Gigi Padovani",
+    "source": "openlibrary_en:q",
+    "matched_title": "Nutella",
+    "en_title": "Nutella: how to create a brand you adore"
+  },
+  "90": {
+    "ok": true,
+    "cover": "covers/0090.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/915359-L.jpg",
+    "author": "Rosamond Lehmann",
+    "source": "openlibrary_en:title",
+    "matched_title": "Dusty Answer",
+    "en_title": "Answer"
+  },
+  "207": {
+    "ok": true,
+    "cover": "covers/0207.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10360650-L.jpg",
+    "author": "Rick Hanson",
+    "source": "openlibrary_en:title",
+    "matched_title": "Buddha's brain",
+    "en_title": "Buddha's Brain"
+  },
+  "215": {
+    "ok": true,
+    "cover": "covers/0215.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9778460-L.jpg",
+    "author": "Dan S. Kennedy",
+    "source": "openlibrary_en:title",
+    "matched_title": "No B.S. trust-based marketing",
+    "en_title": "Trust marketing"
+  },
+  "25": {
+    "ok": true,
+    "cover": "covers/0025.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1675311-L.jpg",
+    "author": "Leslie Cameron-Bandler",
+    "source": "openlibrary_en:q",
+    "matched_title": "The emotional hostage",
+    "en_title": "Rescue the hostage"
+  },
+  "149": {
+    "ok": true,
+    "cover": "covers/0149.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9012647-L.jpg",
+    "author": "Thomas N. Bulkowski",
+    "source": "openlibrary_en:title",
+    "matched_title": "Getting started in chart patterns",
+    "en_title": "Get started"
+  },
+  "227": {
+    "ok": true,
+    "cover": "covers/0227.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/34385-L.jpg",
+    "author": "Dan Millman",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Journeys of Socrates",
+    "en_title": "The Journey of Socrates"
+  },
+  "230": {
+    "ok": true,
+    "cover": "covers/0230.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6530090-L.jpg",
+    "author": "Cait London",
+    "source": "openlibrary_en:title",
+    "matched_title": "Leaving Lonely Town",
+    "en_title": "lonely town"
+  },
+  "226": {
+    "ok": true,
+    "cover": "covers/0226.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/831386-L.jpg",
+    "author": "Michael Ray",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Highest Goal",
+    "en_title": "Highest goal"
+  },
+  "23": {
+    "ok": true,
+    "cover": "covers/0023.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9346412-L.jpg",
+    "author": "Ray Bradbury",
+    "source": "openlibrary_en:title",
+    "matched_title": "Zen in the art of writing",
+    "en_title": "Zen in the Art of Writing"
+  },
+  "33": {
+    "ok": true,
+    "cover": "covers/0033.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8315355-L.jpg",
+    "author": "Ray Dalio",
+    "source": "openlibrary_en:title",
+    "matched_title": "Principles",
+    "en_title": "Principles"
+  },
+  "198": {
+    "ok": true,
+    "cover": "covers/0198.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8597022-L.jpg",
+    "author": "Carlo Collodi",
+    "source": "openlibrary_en:q",
+    "matched_title": "Le avventure di Pinocchio",
+    "en_title": "The art of living simply"
+  },
+  "30": {
+    "ok": true,
+    "cover": "covers/0030.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8155661-L.jpg",
+    "author": "William Shakespeare",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Tempest",
+    "en_title": "If you are not the first you are the last"
+  },
+  "34": {
+    "ok": true,
+    "cover": "covers/0034.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/4849549-L.jpg",
+    "author": "孙武 (Sun Tzu), Stephen F. Kaufman, Lionel Giles",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Art of War",
+    "en_title": "The art of explaining"
+  },
+  "132": {
+    "ok": true,
+    "cover": "covers/0132.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/2501011-L.jpg",
+    "author": "Apostleship of Prayer (Organization)",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Pilgrim Of Our Lady Of Martyrs",
+    "en_title": "One habit per week"
+  },
+  "181": {
+    "ok": true,
+    "cover": "covers/0181.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6947617-L.jpg",
+    "author": "Brad Richdale",
+    "source": "openlibrary_en:title",
+    "matched_title": "Think like a millionaire",
+    "en_title": "Think like a millionaire"
+  },
+  "212": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Flexible sales"
+  },
+  "32": {
+    "ok": true,
+    "cover": "covers/0032.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7449469-L.jpg",
+    "author": "Jerry Kaplan",
+    "source": "openlibrary_en:title",
+    "matched_title": "Startup",
+    "en_title": "Startup"
+  },
+  "102": {
+    "ok": true,
+    "cover": "covers/0102.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8507540-L.jpg",
+    "author": "Cal Newport",
+    "source": "openlibrary_en:title",
+    "matched_title": "Digital Minimalism",
+    "en_title": "Digital minimalism"
+  },
+  "63": {
+    "ok": true,
+    "cover": "covers/0063.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12392946-L.jpg",
+    "author": "Alex Korb, Daniel J. Siegel",
+    "source": "openlibrary_en:title",
+    "matched_title": "Upward Spiral",
+    "en_title": "Upward spiral"
+  },
+  "95": {
+    "ok": true,
+    "cover": "covers/0095.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9148709-L.jpg",
+    "author": "Com Gerald Bunch US N",
+    "source": "openlibrary_en:q",
+    "matched_title": "Warrior to Whisperer",
+    "en_title": "Quantum Warrior"
+  },
+  "228": {
+    "ok": true,
+    "cover": "covers/0228.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8766544-L.jpg",
+    "author": "Llewellyn Jones",
+    "source": "openlibrary_en:title",
+    "matched_title": "How to read books",
+    "en_title": "How to read books"
+  },
+  "27": {
+    "ok": true,
+    "cover": "covers/0027.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6536604-L.jpg",
+    "author": "Charles Brockden Brown",
+    "source": "openlibrary_en:q",
+    "matched_title": "Wieland",
+    "en_title": "Transformer 2"
+  },
+  "29": {
+    "ok": true,
+    "cover": "covers/0029.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8246857-L.jpg",
+    "author": "Dana Shilling",
+    "source": "openlibrary_en:title",
+    "matched_title": "Be your own boss",
+    "en_title": "Your own boss"
+  },
+  "48": {
+    "ok": true,
+    "cover": "covers/0048.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1072441-L.jpg",
+    "author": "Ann Louise Gittleman",
+    "source": "openlibrary_en:title",
+    "matched_title": "Why Am I Always So Tired?",
+    "en_title": "Always tired"
+  },
+  "98": {
+    "ok": true,
+    "cover": "covers/0098.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13194137-L.jpg",
+    "author": "Gary John Bishop",
+    "source": "openlibrary_en:title",
+    "matched_title": "Unfuck Yourself",
+    "en_title": "Unfuck yourself"
+  },
+  "119": {
+    "ok": true,
+    "cover": "covers/0119.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8288113-L.jpg",
+    "author": "Rhonda A. Richardson, A. Margaret Pevec",
+    "source": "openlibrary_en:q",
+    "matched_title": "What kids really want to ask",
+    "en_title": "Between need and want"
+  },
+  "200": {
+    "ok": true,
+    "cover": "covers/0200.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6987034-L.jpg",
+    "author": "Carl Sagan",
+    "source": "openlibrary_en:title",
+    "matched_title": "Broca's Brain",
+    "en_title": "Brain"
+  },
+  "209": {
+    "ok": true,
+    "cover": "covers/0209.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/3972027-L.jpg",
+    "author": "Ellen Tarry",
+    "source": "openlibrary_en:title",
+    "matched_title": "The third door",
+    "en_title": "Third door"
+  },
+  "229": {
+    "ok": true,
+    "cover": "covers/0229.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11427241-L.jpg",
+    "author": "Euny Hong",
+    "source": "openlibrary_en:title",
+    "matched_title": "Power of Nunchi",
+    "en_title": "Nunchi"
+  },
+  "31": {
+    "ok": true,
+    "cover": "covers/0031.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7004880-L.jpg",
+    "author": "Chip Heath, Dan Heath, ʻAlizah Raʻanan",
+    "source": "openlibrary_en:title",
+    "matched_title": "Made to stick",
+    "en_title": "Made to stick"
+  },
+  "67": {
+    "ok": true,
+    "cover": "covers/0067.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14616014-L.jpg",
+    "author": "Isaac Asimov",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Currents of Space",
+    "en_title": "Current"
+  },
+  "79": {
+    "ok": true,
+    "cover": "covers/0079.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14352439-L.jpg",
+    "author": null,
+    "source": "openlibrary_en:title",
+    "matched_title": "The Path To Financial Freedom",
+    "en_title": "The path to financial freedom"
+  },
+  "214": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Differentiate or die! Survival in an era of deadly competition"
+  },
+  "50": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Be effective! Efficiency from A to Z"
+  },
+  "82": {
+    "ok": true,
+    "cover": "covers/0082.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6601656-L.jpg",
+    "author": "Shūsaku Endō",
+    "source": "openlibrary_en:title",
+    "matched_title": "Silence",
+    "en_title": "Silence"
+  },
+  "187": {
+    "ok": true,
+    "cover": "covers/0187.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12806515-L.jpg",
+    "author": "Anderson Charles C.",
+    "source": "openlibrary_en:title",
+    "matched_title": "The first to say no",
+    "en_title": "Say \"NO\" first."
+  },
+  "47": {
+    "ok": true,
+    "cover": "covers/0047.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8842341-L.jpg",
+    "author": "Betty Hechtman",
+    "source": "openlibrary_en:title",
+    "matched_title": "On the Hook",
+    "en_title": "On the hook"
+  },
+  "92": {
+    "ok": true,
+    "cover": "covers/0092.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10315805-L.jpg",
+    "author": "Edmund Husserl, Dorion Cairns",
+    "source": "openlibrary_en:q",
+    "matched_title": "Cartesian meditations",
+    "en_title": "Just do it! Keep it simple!"
+  },
+  "192": {
+    "ok": true,
+    "cover": "covers/0192.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6901081-L.jpg",
+    "author": "Jacob Bronowski",
+    "source": "openlibrary_en:q",
+    "matched_title": "The ascent of man",
+    "en_title": "The power of instant decisions"
+  },
+  "61": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Samurai without a sword"
+  },
+  "106": {
+    "ok": true,
+    "cover": "covers/0106.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12927581-L.jpg",
+    "author": "Nikolay Rimsky-Korsakov",
+    "source": "openlibrary_en:q",
+    "matched_title": "My Musical Life",
+    "en_title": "My productive year"
+  },
+  "139": {
+    "ok": true,
+    "cover": "covers/0139.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12503944-L.jpg",
+    "author": "John Strelecky",
+    "source": "openlibrary_en:title",
+    "matched_title": "Return to The Why Cafe",
+    "en_title": "Return to the cafe"
+  },
+  "165": {
+    "ok": true,
+    "cover": "covers/0165.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/298856-L.jpg",
+    "author": "Mihaly Csikszentmihalyi",
+    "source": "openlibrary_en:q",
+    "matched_title": "Finding flow",
+    "en_title": "Finding the Flow"
+  },
+  "194": {
+    "ok": true,
+    "cover": "covers/0194.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13086410-L.jpg",
+    "author": "John Strelecky",
+    "source": "openlibrary_en:title",
+    "matched_title": "Big Five for Life",
+    "en_title": "Big Five for Life"
+  },
+  "201": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "The Mystical Journey of the Peaceful Warrior"
+  },
+  "206": {
+    "ok": true,
+    "cover": "covers/0206.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13086410-L.jpg",
+    "author": "John Strelecky",
+    "source": "openlibrary_en:title",
+    "matched_title": "Big Five for Life",
+    "en_title": "Big Five for Life"
+  },
+  "39": {
+    "ok": true,
+    "cover": "covers/0039.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9309689-L.jpg",
+    "author": "Ronald Arbuthnott Knox",
+    "source": "openlibrary_en:title",
+    "matched_title": "Enthusiasm",
+    "en_title": "Enthusiasm"
+  },
+  "43": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Startup without a budget"
+  },
+  "66": {
+    "ok": true,
+    "cover": "covers/0066.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/368541-L.jpg",
+    "author": "Daniel Defoe",
+    "source": "openlibrary_en:q",
+    "matched_title": "Robinson Crusoe",
+    "en_title": "Life at full capacity"
+  },
+  "156": {
+    "ok": true,
+    "cover": "covers/0156.jpg",
+    "cover_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Il_pomodoro.jpg",
+    "author": null,
+    "source": "wikipedia",
+    "matched_title": "Метод помидора",
+    "en_title": "Pomodoro method"
+  },
+  "161": {
+    "ok": true,
+    "cover": "covers/0161.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/15220741-L.jpg",
+    "author": "Dr. Cory J. May",
+    "source": "openlibrary_en:title",
+    "matched_title": "Introspection",
+    "en_title": "Introspection"
+  },
+  "173": {
+    "ok": true,
+    "cover": "covers/0173.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/66176-L.jpg",
+    "author": "Roger S. Pressman, Bruce Maxim",
+    "source": "openlibrary_en:q",
+    "matched_title": "Software Engineering",
+    "en_title": "Internal Engineering"
+  },
+  "116": {
+    "ok": true,
+    "cover": "covers/0116.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12735651-L.jpg",
+    "author": "John Carreyrou",
+    "source": "openlibrary_en:title",
+    "matched_title": "Bad Blood",
+    "en_title": "Bad Blood"
+  },
+  "117": {
+    "ok": true,
+    "cover": "covers/0117.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/37492-L.jpg",
+    "author": "Jim Wallis",
+    "source": "openlibrary_en:q",
+    "matched_title": "God's Politics",
+    "en_title": "Be afraid, but do it"
+  },
+  "148": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Secret CIA Manual on Deception and Deception Techniques"
+  },
+  "53": {
+    "ok": true,
+    "cover": "covers/0053.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/2127409-L.jpg",
+    "author": "Lynn Toler",
+    "source": "openlibrary_en:title",
+    "matched_title": "My Mother's Rules",
+    "en_title": "My rules"
+  },
+  "59": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Simply brilliant! What great companies do differently"
+  },
+  "62": {
+    "ok": true,
+    "cover": "covers/0062.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8869123-L.jpg",
+    "author": "Jonah Berger",
+    "source": "openlibrary_en:q",
+    "matched_title": "Invisible influence",
+    "en_title": "Hidden influence"
+  },
+  "77": {
+    "ok": true,
+    "cover": "covers/0077.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/55001-L.jpg",
+    "author": "James P. O'Shaughnessy",
+    "source": "openlibrary_en:q",
+    "matched_title": "What works on Wall Street",
+    "en_title": "Five Rules for Outstanding Performance"
+  },
+  "105": {
+    "ok": true,
+    "cover": "covers/0105.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7446276-L.jpg",
+    "author": "S. J. Liebowitz, Stephen E. Margolis",
+    "source": "openlibrary_en:q",
+    "matched_title": "Winners, losers & Microsoft",
+    "en_title": "Winners' laws"
+  },
+  "111": {
+    "ok": true,
+    "cover": "covers/0111.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9779-L.jpg",
+    "author": "C. S. Lewis",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Screwtape Letters",
+    "en_title": "Letters from Screwtape"
+  },
+  "166": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Warm cup on a cold day"
+  },
+  "175": {
+    "ok": true,
+    "cover": "covers/0175.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8270423-L.jpg",
+    "author": "Rolf Dobelli, Rolf Dobelli",
+    "source": "openlibrary_en:title",
+    "matched_title": "The art of thinking clearly",
+    "en_title": "The art of thinking clearly"
+  },
+  "176": {
+    "ok": true,
+    "cover": "covers/0176.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13179526-L.jpg",
+    "author": "John Dark",
+    "source": "openlibrary_en:title",
+    "matched_title": "Psychology of Persuasion",
+    "en_title": "Psychology of Persuasion"
+  },
+  "35": {
+    "ok": true,
+    "cover": "covers/0035.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12416839-L.jpg",
+    "author": "Startup Startup Guide",
+    "source": "openlibrary_en:title",
+    "matched_title": "Startup Guide Bangkok",
+    "en_title": "Startup guide"
+  },
+  "52": {
+    "ok": true,
+    "cover": "covers/0052.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8230375-L.jpg",
+    "author": "John Stow, C. L. Kingsford, Kingsford, Charles Lethbridge",
+    "source": "openlibrary_en:q",
+    "matched_title": "A Survey of London",
+    "en_title": "The Wolf of Wall Street Method"
+  },
+  "96": {
+    "ok": true,
+    "cover": "covers/0096.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11488704-L.jpg",
+    "author": "Joel E. Winston",
+    "source": "openlibrary_en:q",
+    "matched_title": "NLP for Entrepreneurs",
+    "en_title": "NLP negotiations"
+  },
+  "131": {
+    "ok": true,
+    "cover": "covers/0131.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7010380-L.jpg",
+    "author": "Rob Walling, Mike Taber",
+    "source": "openlibrary_en:title",
+    "matched_title": "Start Small, Stay Small",
+    "en_title": "Start small"
+  },
+  "162": {
+    "ok": true,
+    "cover": "covers/0162.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10543072-L.jpg",
+    "author": "Lisa M. Lilly",
+    "source": "openlibrary_en:title",
+    "matched_title": "The Worried Man",
+    "en_title": "Worried man"
+  },
+  "202": {
+    "ok": true,
+    "cover": "covers/0202.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9045853-L.jpg",
+    "author": "Όμηρος",
+    "source": "openlibrary_en:q",
+    "matched_title": "Ὀδύσσεια",
+    "en_title": "100 development notes"
+  },
+  "42": {
+    "ok": true,
+    "cover": "covers/0042.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6670133-L.jpg",
+    "author": "Gilbert Mertens",
+    "source": "openlibrary_en:q",
+    "matched_title": "Beyond The Blockbuster Drug",
+    "en_title": "Blockbuster Strategy"
+  },
+  "65": {
+    "ok": true,
+    "cover": "covers/0065.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/94212-L.jpg",
+    "author": "Martin Amis",
+    "source": "openlibrary_en:title",
+    "matched_title": "Money",
+    "en_title": "Money"
+  },
+  "73": {
+    "ok": true,
+    "cover": "covers/0073.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6703944-L.jpg",
+    "author": "Max Ehrmann, Peter Friebe",
+    "source": "openlibrary_en:q",
+    "matched_title": "The desiderata of happiness",
+    "en_title": "Formula of Happiness"
+  },
+  "83": {
+    "ok": true,
+    "cover": "covers/0083.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8021046-L.jpg",
+    "author": null,
+    "source": "openlibrary_en:title",
+    "matched_title": "This year I will-- : how to finally change a habit, keep a resolution, or make a dream come true",
+    "en_title": "This year I... How to change habits, keep promises or do what you have long dreamed of"
+  },
+  "85": {
+    "ok": true,
+    "cover": "covers/0085.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12621906-L.jpg",
+    "author": "Лев Толстой",
+    "source": "openlibrary_en:q",
+    "matched_title": "War and Peace",
+    "en_title": "Engage and Conquer"
+  },
+  "87": {
+    "ok": true,
+    "cover": "covers/0087.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11271648-L.jpg",
+    "author": "Regina D. Campbell PH.D",
+    "source": "openlibrary_en:title",
+    "matched_title": "Mind of A Champion",
+    "en_title": "Mind of Champions"
+  },
+  "104": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "We turn on charm according to the methods of the special services"
+  },
+  "122": {
+    "ok": true,
+    "cover": "covers/0122.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10066874-L.jpg",
+    "author": "John Edgar McFadyen",
+    "source": "openlibrary_en:title",
+    "matched_title": "In the hour of silence",
+    "en_title": "Hour of silence"
+  },
+  "135": {
+    "ok": true,
+    "cover": "covers/0135.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7244512-L.jpg",
+    "author": "Austin Kleon",
+    "source": "openlibrary_en:title",
+    "matched_title": "Steal like an artist",
+    "en_title": "Steal like an artist"
+  },
+  "169": {
+    "ok": true,
+    "cover": "covers/0169.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14421079-L.jpg",
+    "author": "Nathaniel Branden",
+    "source": "openlibrary_en:title",
+    "matched_title": "The six pillars of self-esteem",
+    "en_title": "Six Pillars of Self-Esteem"
+  },
+  "188": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Multiple sources of income"
+  },
+  "203": {
+    "ok": true,
+    "cover": "covers/0203.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12947486-L.jpg",
+    "author": "Михаил Афанасьевич Булгаков",
+    "source": "openlibrary_en:q",
+    "matched_title": "Мастер и Маргарита",
+    "en_title": "The year I said YES to everything"
+  },
+  "68": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "On a sweet leash"
+  },
+  "86": {
+    "ok": true,
+    "cover": "covers/0086.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1502699-L.jpg",
+    "author": "David Sirota",
+    "source": "openlibrary_en:title",
+    "matched_title": "Essentials of real estate investment",
+    "en_title": "Real Estate Investments"
+  },
+  "118": {
+    "ok": true,
+    "cover": "covers/0118.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12106130-L.jpg",
+    "author": "John Trusler",
+    "source": "openlibrary_en:title",
+    "matched_title": "The First Four Rules of Arithmetic, Rendered so Easy as to be Learned in a few Weeks, Without the Help of a Master. ... The Second Edition. By the Rev. Dr. John Trusler",
+    "en_title": "Four Second Rule"
+  },
+  "150": {
+    "ok": true,
+    "cover": "covers/0150.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1860741-L.jpg",
+    "author": "James Sallis",
+    "source": "openlibrary_en:title",
+    "matched_title": "Drive",
+    "en_title": "Drive"
+  },
+  "152": {
+    "ok": true,
+    "cover": "covers/0152.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/424898-L.jpg",
+    "author": "Kate Kelly, Peggy Ramundo, Kate M. Kelly",
+    "source": "openlibrary_en:q",
+    "matched_title": "You mean I'm not lazy, stupid or crazy?!",
+    "en_title": "A book that doesn't exist"
+  },
+  "157": {
+    "ok": true,
+    "cover": "covers/0157.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/2223600-L.jpg",
+    "author": "Nancy C. Andreasen",
+    "source": "openlibrary_en:title",
+    "matched_title": "Brave New Brain",
+    "en_title": "New brain"
+  },
+  "180": {
+    "ok": true,
+    "cover": "covers/0180.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7261695-L.jpg",
+    "author": "Peter Bregman",
+    "source": "openlibrary_en:title",
+    "matched_title": "18 minutes",
+    "en_title": "18 minutes"
+  },
+  "189": {
+    "ok": true,
+    "cover": "covers/0189.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12996033-L.jpg",
+    "author": "Orson Scott Card",
+    "source": "openlibrary_en:title",
+    "matched_title": "Ender's Game",
+    "en_title": "Game"
+  },
+  "195": {
+    "ok": true,
+    "cover": "covers/0195.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9438792-L.jpg",
+    "author": "Clarence Bernard Henry",
+    "source": "openlibrary_en:title",
+    "matched_title": "Let's make some noise",
+    "en_title": "Let's make some noise"
+  },
+  "36": {
+    "ok": true,
+    "cover": "covers/0036.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8597022-L.jpg",
+    "author": "Carlo Collodi",
+    "source": "openlibrary_en:q",
+    "matched_title": "Le avventure di Pinocchio",
+    "en_title": "Sell ​​or be sold to you"
+  },
+  "41": {
+    "ok": true,
+    "cover": "covers/0041.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10315805-L.jpg",
+    "author": "Edmund Husserl, Dorion Cairns",
+    "source": "openlibrary_en:q",
+    "matched_title": "Cartesian meditations",
+    "en_title": "Mobile application as a business tool"
+  },
+  "46": {
+    "ok": true,
+    "cover": "covers/0046.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12151620-L.jpg",
+    "author": "Stewart Jacobs",
+    "source": "openlibrary_en:title",
+    "matched_title": "How to start a business from scratch",
+    "en_title": "Business from scratch"
+  },
+  "54": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "How I blew the bank"
+  },
+  "97": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "7 Strategies to Achieve Wealth and Happiness"
+  },
+  "103": {
+    "ok": true,
+    "cover": "covers/0103.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/1242561-L.jpg",
+    "author": "Jesse B. Brown",
+    "source": "openlibrary_en:title",
+    "matched_title": "Pay yourself first",
+    "en_title": "Pay yourself first"
+  },
+  "113": {
+    "ok": true,
+    "cover": "covers/0113.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6123318-L.jpg",
+    "author": "Felix O'Gallagher",
+    "source": "openlibrary_en:title",
+    "matched_title": "An essay on the investigation of the first principles of nature",
+    "en_title": "The principles of the first"
+  },
+  "123": {
+    "ok": true,
+    "cover": "covers/0123.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/4947875-L.jpg",
+    "author": "Stephen E. Lucas",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Art of Public Speaking",
+    "en_title": "The art of persuasion, or How to get what you want"
+  },
+  "142": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Stop guessing! Nine Strategies to Solve Any Problem"
+  },
+  "182": {
+    "ok": true,
+    "cover": "covers/0182.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10772165-L.jpg",
+    "author": "Nancy Malone",
+    "source": "openlibrary_en:title",
+    "matched_title": "Just ask Mom",
+    "en_title": "Ask mom"
+  },
+  "183": {
+    "ok": true,
+    "cover": "covers/0183.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11732445-L.jpg",
+    "author": "Dean Burnett",
+    "source": "openlibrary_en:title",
+    "matched_title": "Happy brain",
+    "en_title": "Happy brain"
+  },
+  "185": {
+    "ok": true,
+    "cover": "covers/0185.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/30778-L.jpg",
+    "author": "Debbie Macomber",
+    "source": "openlibrary_en:title",
+    "matched_title": "Changing Habits",
+    "en_title": "Changing habits"
+  },
+  "193": {
+    "ok": true,
+    "cover": "covers/0193.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8797805-L.jpg",
+    "author": "Eric Schmidt, Jonathan Rosenberg, Alan Eagle",
+    "source": "openlibrary_en:title",
+    "matched_title": "Trillion Dollar Coach",
+    "en_title": "Trillion Dollar Coach"
+  },
+  "37": {
+    "ok": true,
+    "cover": "covers/0037.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8244955-L.jpg",
+    "author": "Cindy Gerard",
+    "source": "openlibrary_en:title",
+    "matched_title": "MAVERICK",
+    "en_title": "Maverick"
+  },
+  "57": {
+    "ok": true,
+    "cover": "covers/0057.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/739614-L.jpg",
+    "author": "Winsor McCay",
+    "source": "openlibrary_en:q",
+    "matched_title": "Winsor McCay",
+    "en_title": "Get there in 120 minutes"
+  },
+  "64": {
+    "ok": true,
+    "cover": "covers/0064.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11135544-L.jpg",
+    "author": "Skateboarding Geschenke für Männer und Frauen Skateboarder Kalender, Merchment",
+    "source": "openlibrary_en:q",
+    "matched_title": "KALENDER 2020",
+    "en_title": "Life like a startup"
+  },
+  "69": {
+    "ok": true,
+    "cover": "covers/0069.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13906242-L.jpg",
+    "author": "James Watt",
+    "source": "openlibrary_en:title",
+    "matched_title": "Business for Punks",
+    "en_title": "Business for punks"
+  },
+  "70": {
+    "ok": true,
+    "cover": "covers/0070.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13296732-L.jpg",
+    "author": "Marc Chernoff, Angel Chernoff",
+    "source": "openlibrary_en:q",
+    "matched_title": "Good Morning Journal",
+    "en_title": "Good morning every day"
+  },
+  "71": {
+    "ok": true,
+    "cover": "covers/0071.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7431269-L.jpg",
+    "author": "Jake Knapp, John Zeratsky, Braden Kowitz",
+    "source": "openlibrary_en:title",
+    "matched_title": "Sprint",
+    "en_title": "Sprint"
+  },
+  "89": {
+    "ok": true,
+    "cover": "covers/0089.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/390814-L.jpg",
+    "author": "Ram Charan, Larry Bossidy",
+    "source": "openlibrary_en:title",
+    "matched_title": "Execution",
+    "en_title": "Execution"
+  },
+  "107": {
+    "ok": true,
+    "cover": "covers/0107.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10805418-L.jpg",
+    "author": "Harry Beckwith",
+    "source": "openlibrary_en:title",
+    "matched_title": "Selling the invisible",
+    "en_title": "Selling the invisible"
+  },
+  "168": {
+    "ok": true,
+    "cover": "covers/0168.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10568235-L.jpg",
+    "author": "Max Brooks, Макс Брукс",
+    "source": "openlibrary_en:title",
+    "matched_title": "Minecraft",
+    "en_title": "Minecraft"
+  },
+  "186": {
+    "ok": true,
+    "cover": "covers/0186.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13590306-L.jpg",
+    "author": "Julia Keller",
+    "source": "openlibrary_en:title",
+    "matched_title": "Quitting : A Life Strategy",
+    "en_title": "Life strategy"
+  },
+  "49": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Like me! Economy of Gratitude"
+  },
+  "56": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "How to become a blogger with an audience of millions, create a successful startup, conquer America, if you are a girl from an ordinary family"
+  },
+  "84": {
+    "ok": true,
+    "cover": "covers/0084.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10240465-L.jpg",
+    "author": "Gerhard Raab, Oliver Gernsheimer, Maik Schindler",
+    "source": "openlibrary_en:title",
+    "matched_title": "Neuromarketing",
+    "en_title": "Neuromarketing"
+  },
+  "100": {
+    "ok": true,
+    "cover": "covers/0100.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/3047697-L.jpg",
+    "author": "Penny Hancock",
+    "source": "openlibrary_en:q",
+    "matched_title": "Goal II",
+    "en_title": "Goal-2"
+  },
+  "120": {
+    "ok": true,
+    "cover": "covers/0120.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13624296-L.jpg",
+    "author": "Tom Rademacher",
+    "source": "openlibrary_en:title",
+    "matched_title": "It won't be easy",
+    "en_title": "It won't be easy"
+  },
+  "141": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Save the cat! And other secrets of screenwriting"
+  },
+  "172": {
+    "ok": true,
+    "cover": "covers/0172.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8808434-L.jpg",
+    "author": "Dara Horn",
+    "source": "openlibrary_en:title",
+    "matched_title": "Eternal Life",
+    "en_title": "Eternal life"
+  },
+  "174": {
+    "ok": true,
+    "cover": "covers/0174.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7359580-L.jpg",
+    "author": "Mary Higgins Clark",
+    "source": "openlibrary_en:q",
+    "matched_title": "I'll Be Seeing You",
+    "en_title": "Go where it's difficult"
+  },
+  "184": {
+    "ok": true,
+    "cover": "covers/0184.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11789724-L.jpg",
+    "author": "Carol Mon",
+    "source": "openlibrary_en:title",
+    "matched_title": "A guide to networking for introverts",
+    "en_title": "Networking for introverts"
+  },
+  "51": {
+    "ok": true,
+    "cover": "covers/0051.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/3355803-L.jpg",
+    "author": "Editors of Silver Dolphin en Espanol",
+    "source": "openlibrary_en:title",
+    "matched_title": "Figuras magicas: Pixar: Magical Magnets",
+    "en_title": "Pixar Magic"
+  },
+  "133": {
+    "ok": true,
+    "cover": "covers/0133.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9181116-L.jpg",
+    "author": "Arthur Miller",
+    "source": "openlibrary_en:title",
+    "matched_title": "Focus",
+    "en_title": "Focus"
+  },
+  "146": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Storinomics"
+  },
+  "177": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "The strange girl who fell in love with the brain"
+  },
+  "55": {
+    "ok": true,
+    "cover": "covers/0055.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/684159-L.jpg",
+    "author": "Geoffrey A. Moore",
+    "source": "openlibrary_en:title",
+    "matched_title": "Crossing the Chasm",
+    "en_title": "Crossing the Chasm"
+  },
+  "72": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "From clicks to sales"
+  },
+  "94": {
+    "ok": true,
+    "cover": "covers/0094.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7276285-L.jpg",
+    "author": "Malcolm Gladwell",
+    "source": "openlibrary_en:title",
+    "matched_title": "David and Goliath",
+    "en_title": "David and Goliath"
+  },
+  "126": {
+    "ok": true,
+    "cover": "covers/0126.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10840008-L.jpg",
+    "author": "Julia Cameron",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Artist's Way",
+    "en_title": "Attention Trap"
+  },
+  "143": {
+    "ok": true,
+    "cover": "covers/0143.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7292370-L.jpg",
+    "author": "Shelly Leanne, Dr. Shel Leanne",
+    "source": "openlibrary_en:q",
+    "matched_title": "How to interview like a top MBA",
+    "en_title": "Business without an MBA"
+  },
+  "164": {
+    "ok": true,
+    "cover": "covers/0164.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10612889-L.jpg",
+    "author": "Максим Дорофеев, Максим Дорофеев",
+    "source": "openlibrary_ru",
+    "matched_title": "Джедайские техники",
+    "en_title": "Jedi techniques"
+  },
+  "191": {
+    "ok": true,
+    "cover": "covers/0191.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13610164-L.jpg",
+    "author": "Stephen Francis Weston, Paul D. Taylor, Sarah Shemmings",
+    "source": "openlibrary_en:title",
+    "matched_title": "Construction law & the environment",
+    "en_title": "Constructive environment"
+  },
+  "196": {
+    "ok": true,
+    "cover": "covers/0196.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/5854701-L.jpg",
+    "author": "Silas Farmer",
+    "source": "openlibrary_en:q",
+    "matched_title": "The history of Detroit and Michigan",
+    "en_title": "The art of creating advertising messages"
+  },
+  "58": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Instead of MBA"
+  },
+  "76": {
+    "ok": true,
+    "cover": "covers/0076.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/855303-L.jpg",
+    "author": "Inside the Minds",
+    "source": "openlibrary_en:q",
+    "matched_title": "Inside the Minds",
+    "en_title": "Secrets of making deals"
+  },
+  "78": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Become an innovator"
+  },
+  "99": {
+    "ok": true,
+    "cover": "covers/0099.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/459026-L.jpg",
+    "author": "Joseph O'connor",
+    "source": "openlibrary_en:title",
+    "matched_title": "The art of systems thinking",
+    "en_title": "The Art of Systems Thinking"
+  },
+  "121": {
+    "ok": true,
+    "cover": "covers/0121.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8292745-L.jpg",
+    "author": "Walter Long",
+    "source": "openlibrary_en:title",
+    "matched_title": "Sumo",
+    "en_title": "SUMO"
+  },
+  "134": {
+    "ok": true,
+    "cover": "covers/0134.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/2185435-L.jpg",
+    "author": "T. R. Burns",
+    "source": "openlibrary_en:title",
+    "matched_title": "Man, Decisions, Society",
+    "en_title": "Decisive man"
+  },
+  "158": {
+    "ok": true,
+    "cover": "covers/0158.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8229224-L.jpg",
+    "author": "John Bunyan",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Pilgrim's Progress",
+    "en_title": "Confessions of a Pricing Master"
+  },
+  "159": {
+    "ok": true,
+    "cover": "covers/0159.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/25749-L.jpg",
+    "author": "Rodolfo Acuña, Rodolfo Acuna",
+    "source": "openlibrary_en:q",
+    "matched_title": "Occupied America",
+    "en_title": "Work as an inner game"
+  },
+  "167": {
+    "ok": true,
+    "cover": "covers/0167.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/55745-L.jpg",
+    "author": "Al Ries, Jack Trout",
+    "source": "openlibrary_en:title",
+    "matched_title": "Positioning",
+    "en_title": "Positioning"
+  },
+  "74": {
+    "ok": true,
+    "cover": "covers/0074.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7101372-L.jpg",
+    "author": "Anthracite Bureau of Information, Philadelphia.",
+    "source": "openlibrary_en:q",
+    "matched_title": "The anthracite strike of 1922",
+    "en_title": "Information strike"
+  },
+  "81": {
+    "ok": true,
+    "cover": "covers/0081.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6909468-L.jpg",
+    "author": "David McNally; Karl D Speak",
+    "source": "openlibrary_en:title",
+    "matched_title": "Be Your Own Brand",
+    "en_title": "Your own brand"
+  },
+  "88": {
+    "ok": true,
+    "cover": "covers/0088.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10982028-L.jpg",
+    "author": "Tolstoy, Leo, graf, 1828-1910, Aline Delano",
+    "source": "openlibrary_en:title",
+    "matched_title": "In Pursuit of Happiness",
+    "en_title": "In pursuit of happiness"
+  },
+  "93": {
+    "ok": true,
+    "cover": "covers/0093.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/2519492-L.jpg",
+    "author": "Suzanne Brockmann",
+    "source": "openlibrary_en:q",
+    "matched_title": "Body Language",
+    "en_title": "New body language"
+  },
+  "101": {
+    "ok": true,
+    "cover": "covers/0101.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10107094-L.jpg",
+    "author": "Oliver Sacks",
+    "source": "openlibrary_en:q",
+    "matched_title": "On the Move",
+    "en_title": "Life on the move"
+  },
+  "136": {
+    "ok": true,
+    "cover": "covers/0136.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/14758661-L.jpg",
+    "author": "Neil Archer",
+    "source": "openlibrary_en:title",
+    "matched_title": "Social Network",
+    "en_title": "Social network"
+  },
+  "153": {
+    "ok": true,
+    "cover": "covers/0153.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10827448-L.jpg",
+    "author": "Sandra Brown",
+    "source": "openlibrary_en:title",
+    "matched_title": "Deadline",
+    "en_title": "Deadline"
+  },
+  "204": {
+    "ok": true,
+    "cover": "covers/0204.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/7513840-L.jpg",
+    "author": "Hans Ulrich Obrist",
+    "source": "openlibrary_en:q",
+    "matched_title": "Serpentine Gallery Manifesto Marathon 1819 October 2008",
+    "en_title": "Literary marathon"
+  },
+  "45": {
+    "ok": true,
+    "cover": "covers/0045.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/528639-L.jpg",
+    "author": "Moore, Thomas, Thomas Moore",
+    "source": "openlibrary_en:q",
+    "matched_title": "A life at work",
+    "en_title": "Work is a joy"
+  },
+  "75": {
+    "ok": true,
+    "cover": "covers/0075.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6616199-L.jpg",
+    "author": "William Styron",
+    "source": "openlibrary_en:title",
+    "matched_title": "Sophie's Choice",
+    "en_title": "Choice"
+  },
+  "80": {
+    "ok": true,
+    "cover": "covers/0080.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12419262-L.jpg",
+    "author": "Ben Burn",
+    "source": "openlibrary_en:title",
+    "matched_title": "Mind Hacking",
+    "en_title": "Mind hacking"
+  },
+  "170": {
+    "ok": true,
+    "cover": "covers/0170.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9356126-L.jpg",
+    "author": "Alex Mitchell, Clara Fernández-Vara, David Thue",
+    "source": "openlibrary_en:q",
+    "matched_title": "Interactive Storytelling",
+    "en_title": "Storytelling in interface design"
+  },
+  "44": {
+    "ok": true,
+    "cover": "covers/0044.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/9978588-L.jpg",
+    "author": "Grant Cardone",
+    "source": "openlibrary_en:title",
+    "matched_title": "The 10x rule",
+    "en_title": "The 10x rule"
+  },
+  "108": {
+    "ok": true,
+    "cover": "covers/0108.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/10571373-L.jpg",
+    "author": "Rodríguez, J. A. Jr",
+    "source": "openlibrary_en:title",
+    "matched_title": "Not intuitively obvious",
+    "en_title": "Not obvious"
+  },
+  "124": {
+    "ok": true,
+    "cover": "covers/0124.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/19641-L.jpg",
+    "author": "J. D. Ryan, Gail Hiduke",
+    "source": "openlibrary_en:title",
+    "matched_title": "Small business",
+    "en_title": "Small business"
+  },
+  "144": {
+    "ok": true,
+    "cover": "covers/0144.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12525405-L.jpg",
+    "author": "Desmond Tutu, Douglas Carlton Abrams, His Holiness Tenzin Gyatso the XIV Dalai Lama",
+    "source": "openlibrary_en:title",
+    "matched_title": "Book of Joy",
+    "en_title": "Book of Joy"
+  },
+  "109": {
+    "ok": true,
+    "cover": "covers/0109.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/13911549-L.jpg",
+    "author": "Hakima Chaouchi",
+    "source": "openlibrary_en:title",
+    "matched_title": "Internet of things",
+    "en_title": "Internet of Things"
+  },
+  "137": {
+    "ok": true,
+    "cover": "covers/0137.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12380839-L.jpg",
+    "author": "Rebecca Lieb",
+    "source": "openlibrary_en:title",
+    "matched_title": "Content marketing",
+    "en_title": "Content Marketing"
+  },
+  "128": {
+    "ok": true,
+    "cover": "covers/0128.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/976258-L.jpg",
+    "author": "Frédéric Beigbeder",
+    "source": "openlibrary_en:title",
+    "matched_title": "99 francs",
+    "en_title": "99 francs"
+  },
+  "140": {
+    "ok": true,
+    "cover": "covers/0140.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/8270423-L.jpg",
+    "author": "Rolf Dobelli, Rolf Dobelli",
+    "source": "openlibrary_en:q",
+    "matched_title": "The art of thinking clearly",
+    "en_title": "Less but better"
+  },
+  "151": {
+    "ok": true,
+    "cover": "covers/0151.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/194033-L.jpg",
+    "author": "Marty Neumeier",
+    "source": "openlibrary_en:title",
+    "matched_title": "Zag",
+    "en_title": "Zag"
+  },
+  "163": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Automatic buyer"
+  },
+  "91": {
+    "ok": true,
+    "cover": "covers/0091.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/966056-L.jpg",
+    "author": "Karl Polanyi",
+    "source": "openlibrary_en:q",
+    "matched_title": "The Great Transformation",
+    "en_title": "Transformer 3"
+  },
+  "112": {
+    "ok": false,
+    "retry_later": true,
+    "error": "gb_429_no_other_source",
+    "en_title": "Freaky thinking"
+  },
+  "127": {
+    "ok": true,
+    "cover": "covers/0127.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/5707106-L.jpg",
+    "author": "Charles S. Devas",
+    "source": "openlibrary_en:q",
+    "matched_title": "Political Economy",
+    "en_title": "First-class service as a competitive advantage"
+  },
+  "129": {
+    "ok": true,
+    "cover": "covers/0129.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12840293-L.jpg",
+    "author": "Barbara Moore",
+    "source": "openlibrary_en:title",
+    "matched_title": "Your Tarot Your Way",
+    "en_title": "Your way"
+  },
+  "145": {
+    "ok": true,
+    "cover": "covers/0145.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
+    "author": "Bible",
+    "source": "openlibrary_en:q",
+    "matched_title": "Bible",
+    "en_title": "Four steps to insight"
+  },
+  "160": {
+    "ok": true,
+    "cover": "covers/0160.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/11831478-L.jpg",
+    "author": "Humphrey Snyder",
+    "source": "openlibrary_en:title",
+    "matched_title": "How to Create a Personal Brand without Spending a Fortune",
+    "en_title": "Create a personal brand"
+  },
+  "179": {
+    "ok": true,
+    "cover": "covers/0179.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6418101-L.jpg",
+    "author": "William J. Bernstein",
+    "source": "openlibrary_en:title",
+    "matched_title": "The investor's manifesto",
+    "en_title": "Investor manifesto"
+  },
+  "171": {
+    "ok": true,
+    "cover": "covers/0171.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/6597315-L.jpg",
+    "author": "Benjamin Cummings Truman",
+    "source": "openlibrary_en:q",
+    "matched_title": "History of the World's Fair",
+    "en_title": "How to create a product that people will love"
+  },
+  "178": {
+    "ok": true,
+    "cover": "covers/0178.jpg",
+    "cover_url": "https://covers.openlibrary.org/b/id/12866378-L.jpg",
+    "author": "Aliza Licht",
+    "source": "openlibrary_en:title",
+    "matched_title": "Leave your mark",
+    "en_title": "Leave your mark"
   }
 }
