@@ -12,7 +12,9 @@ RAW = ROOT / "data" / "raw_posts.json"
 CACHE = ROOT / "data" / "enrich_cache.json"
 OUT = ROOT / "data" / "books.json"
 OUT_SITE = ROOT / "site" / "data" / "books.json"
+OUT_DOCS = ROOT / "docs" / "data" / "books.json"
 COVERS = ROOT / "site" / "covers"
+COVERS_DOCS = ROOT / "docs" / "covers"
 
 SKIP = re.compile(r"^Моя\s+\d+", re.I)
 PAREN = re.compile(r"\(([^)]+)\)\s*$")
@@ -154,11 +156,13 @@ def make_svg_cover(number: int, title: str, author: str) -> str:
 </svg>
 '''
     (COVERS / fname).write_text(svg, encoding="utf-8")
+    (COVERS_DOCS / fname).write_text(svg, encoding="utf-8")
     return f"covers/{fname}"
 
 
 def main():
     COVERS.mkdir(parents=True, exist_ok=True)
+    COVERS_DOCS.mkdir(parents=True, exist_ok=True)
     posts = json.loads(RAW.read_text(encoding="utf-8"))
     cache = {}
     if CACHE.exists():
@@ -218,8 +222,9 @@ def main():
     }
     text = json.dumps(payload, ensure_ascii=False, indent=2)
     OUT.write_text(text, encoding="utf-8")
-    OUT_SITE.parent.mkdir(parents=True, exist_ok=True)
-    OUT_SITE.write_text(text, encoding="utf-8")
+    for dest in (OUT_SITE, OUT_DOCS):
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        dest.write_text(text, encoding="utf-8")
     print(f"books={len(books)} covers={len(list(COVERS.glob('*.svg')))}")
 
 

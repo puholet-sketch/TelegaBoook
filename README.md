@@ -27,6 +27,16 @@ python scripts/enrich.py
 npx --yes serve site
 ```
 
-## GitHub Pages
+## GitHub
 
-Корень публикации: папка `site/` (или `docs/` — см. настройки репозитория).
+- Репозиторий: https://github.com/puholet-sketch/TelegaBoook
+- Сайт: https://puholet-sketch.github.io/TelegaBoook/
+- Публикация: GitHub Pages из папки `docs/`
+
+### Обновление каталога
+
+```bash
+python scripts/build_catalog.py
+# опционально, медленно (после cooldown API):
+python scripts/enrich_covers_slow.py
+```

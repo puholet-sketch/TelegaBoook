@@ -2,11 +2,11 @@
 
 Каталог книг из Telegram-канала «Книги на миллион» + статический сайт на GitHub Pages.
 
-- **Источник:** https://web.telegram.org/a/#-1001167188175
-- **Данные:** `data/raw_posts.json` (484 книги, #1–#487, нет 28/125/138)
-- **Сайт:** `site/` — сортировка по лайкам/комментариям, единые обложки
-- **Исключено:** посты «Моя N… книга»; графика из TG-постов не используется
+- **Репо:** https://github.com/puholet-sketch/TelegaBoook
+- **Сайт:** https://puholet-sketch.github.io/TelegaBoook/
+- **Данные:** 484 книги (`Книга #1`…`#487`, нет 28/125/138); «Моя N…» исключены
+- **Обложки:** единый SVG-стиль (не графика из TG); фото-обложки — через медленный `enrich_covers_slow.py` после cooldown API
 
-context_version: 2
+context_version: 3
 updated: 2026-07-26
-next_step: Опубликовать на GitHub Pages; при необходимости дообогатить авторов/фото-обложки через `scripts/enrich_covers_slow.py`.
+next_step: По желанию — дообогатить авторов и фото-обложки Google Books (`scripts/enrich_covers_slow.py`).

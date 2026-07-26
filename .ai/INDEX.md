@@ -9,6 +9,7 @@
 | `data/extract_report.md` | Отчёт извлечения (счётчики, пробелы, блокеры) |
 | `scripts/extract_tg.js` | Хелпер извлечения из DOM (для браузера) |
 | `scripts/enrich.py` | Обложки + краткие выводы |
-| `site/` | Статический сайт для GitHub Pages |
-| `site/index.html` | Главная |
-| `site/covers/` | Обложки (open sources) |
+| `site/` | Рабочая копия сайта |
+| `docs/` | Публикация GitHub Pages |
+| `docs/index.html` | Главная на Pages |
+| `site/covers/` / `docs/covers/` | Стандартизированные обложки SVG |
