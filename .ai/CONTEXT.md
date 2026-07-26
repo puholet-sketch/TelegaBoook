@@ -4,9 +4,10 @@
 
 - **Репо:** https://github.com/puholet-sketch/TelegaBoook
 - **Сайт:** https://puholet-sketch.github.io/TelegaBoook/
-- **Данные:** 484 книги (`Книга #1`…`#487`, нет 28/125/138); «Моя N…» исключены
-- **Обложки:** единый SVG-стиль (не графика из TG); фото-обложки — через медленный `enrich_covers_slow.py` после cooldown API
+- **Стиль:** OUD4 consulting (crimson/paper, Unbounded/Onest), карточки книг сохранены
+- **Портфолио:** блок «Рекомендованная литература» в https://puholet-sketch.github.io/oleg-sorvanov/#life
+- **Данные:** 484 книги; «Моя N…» исключены
 
-context_version: 3
+context_version: 4
 updated: 2026-07-26
-next_step: По желанию — дообогатить авторов и фото-обложки Google Books (`scripts/enrich_covers_slow.py`).
+next_step: При снятии 429 у Google Books — `python scripts/enrich_covers_slow.py` для фото-обложек.
