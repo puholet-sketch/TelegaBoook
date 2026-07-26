@@ -12,8 +12,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 BOOKS = ROOT / "data" / "books.json"
 OUT_SITE = ROOT / "site" / "data" / "books.json"
+OUT_DOCS = ROOT / "docs" / "data" / "books.json"
 CACHE = ROOT / "data" / "enrich_cache.json"
 COVERS = ROOT / "site" / "covers"
+COVERS_DOCS = ROOT / "docs" / "covers"
 UA = "TelegaBoook/1.0 (educational catalog)"
 
 
@@ -85,6 +87,7 @@ def main():
             data = http_bytes(hit["cover"])
             if data:
                 dest.write_bytes(data)
+                (COVERS_DOCS / f"{book['number']:04d}.jpg").write_bytes(data)
                 book["cover"] = f"covers/{book['number']:04d}.jpg"
             else:
                 book["cover"] = hit["cover"]
@@ -94,16 +97,18 @@ def main():
             payload["books"] = books
             payload["generated_at"] = time.strftime("%Y-%m-%dT%H:%M:%S")
             text = json.dumps(payload, ensure_ascii=False, indent=2)
-            BOOKS.write_text(text, encoding="utf-8")
-            OUT_SITE.write_text(text, encoding="utf-8")
+            for path in (BOOKS, OUT_SITE, OUT_DOCS):
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text(text, encoding="utf-8")
             print("  checkpoint saved", flush=True)
 
     books.sort(key=lambda b: (-b["likes"], -b["comments"], b["number"]))
     payload["books"] = books
     payload["generated_at"] = time.strftime("%Y-%m-%dT%H:%M:%S")
     text = json.dumps(payload, ensure_ascii=False, indent=2)
-    BOOKS.write_text(text, encoding="utf-8")
-    OUT_SITE.write_text(text, encoding="utf-8")
+    for path in (BOOKS, OUT_SITE, OUT_DOCS):
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(text, encoding="utf-8")
     CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
     print("done")
 

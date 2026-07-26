@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#3D5A40"/>
-      <stop offset="100%" stop-color="#1F2E21"/>
+      <stop offset="0%" stop-color="#4A1A1A"/>
+      <stop offset="100%" stop-color="#1A1A1A"/>
     </linearGradient>
   </defs>
   <rect width="400" height="600" fill="url(#g)"/>
-  <rect x="22" y="22" width="356" height="556" fill="none" stroke="#E8C47A" stroke-width="2" opacity="0.55"/>
-  <text x="40" y="78" fill="#E8C47A" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">КНИГА #428</text>
+  <rect x="22" y="22" width="356" height="556" fill="none" stroke="#FB5A5A" stroke-width="2" opacity="0.55"/>
+  <text x="40" y="78" fill="#FB5A5A" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">КНИГА #428</text>
   <text x="40" y="210" fill="#F7F1E5" font-family="Georgia, serif" font-size="26" font-weight="700">451 градус по</text>
 <text x="40" y="244" fill="#F7F1E5" font-family="Georgia, serif" font-size="26" font-weight="700">Фаренгейту</text>
 
-  <text x="40" y="520" fill="#D9CDB5" font-family="Arial, sans-serif" font-size="15">Автор уточняется</text>
-  <text x="40" y="552" fill="#E8C47A" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">TELEGA BOOK</text>
+  <text x="40" y="520" fill="#E8E4E1" font-family="Arial, sans-serif" font-size="15">Автор уточняется</text>
+  <text x="40" y="552" fill="#FB5A5A" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">TELEGA BOOK</text>
 </svg>

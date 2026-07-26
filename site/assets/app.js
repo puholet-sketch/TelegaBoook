@@ -59,8 +59,8 @@ function render() {
           <span class="rank">TOP ${i + 1}</span>
           <img src="${cover}" alt="Обложка: ${escapeHtml(b.title)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='covers/_placeholder.svg'">
           <div class="meta-badges">
-            <span class="badge likes">❤ ${fmt(b.likes)}</span>
-            <span class="badge comments">💬 ${fmt(b.comments)}</span>
+            <span class="badge likes">Лайки ${fmt(b.likes)}</span>
+            <span class="badge comments">Комменты ${fmt(b.comments)}</span>
           </div>
         </div>
         <div class="body">

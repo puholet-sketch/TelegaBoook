@@ -40,14 +40,14 @@ BOILER = [
 ]
 
 PALETTE = [
-    ("#0F6B5C", "#163D36"),
-    ("#1F4E79", "#122C45"),
-    ("#8B3A2A", "#4A1F18"),
-    ("#5C4B8A", "#2E2448"),
-    ("#3D5A40", "#1F2E21"),
-    ("#7A4E2D", "#3D2616"),
-    ("#2F4858", "#15232C"),
-    ("#6B2D5B", "#36152E"),
+    ("#C00000", "#1A1A1A"),
+    ("#8A0000", "#2A1515"),
+    ("#1A1A1A", "#3A2020"),
+    ("#FB5A5A", "#8A0000"),
+    ("#4A1A1A", "#1A1A1A"),
+    ("#C00000", "#4A0000"),
+    ("#2A1515", "#1A1A1A"),
+    ("#8A0000", "#1A1A1A"),
 ]
 
 
@@ -148,11 +148,11 @@ def make_svg_cover(number: int, title: str, author: str) -> str:
     </linearGradient>
   </defs>
   <rect width="400" height="600" fill="url(#g)"/>
-  <rect x="22" y="22" width="356" height="556" fill="none" stroke="#E8C47A" stroke-width="2" opacity="0.55"/>
-  <text x="40" y="78" fill="#E8C47A" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">КНИГА #{number}</text>
+  <rect x="22" y="22" width="356" height="556" fill="none" stroke="#FB5A5A" stroke-width="2" opacity="0.55"/>
+  <text x="40" y="78" fill="#FB5A5A" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">КНИГА #{number}</text>
   {title_svg}
-  <text x="40" y="520" fill="#D9CDB5" font-family="Arial, sans-serif" font-size="15">{safe_author[:42]}</text>
-  <text x="40" y="552" fill="#E8C47A" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">TELEGA BOOK</text>
+  <text x="40" y="520" fill="#E8E4E1" font-family="Arial, sans-serif" font-size="15">{safe_author[:42]}</text>
+  <text x="40" y="552" fill="#FB5A5A" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">TELEGA BOOK</text>
 </svg>
 '''
     (COVERS / fname).write_text(svg, encoding="utf-8")
