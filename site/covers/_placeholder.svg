@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600" role="img" aria-label="5B >1;>6:8">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600" role="img" aria-label="Нет обложки">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#1A3A3A"/>
@@ -8,5 +8,5 @@
   <rect width="400" height="600" fill="url(#g)"/>
   <rect x="28" y="28" width="344" height="544" fill="none" stroke="#E8C47A" stroke-width="2" opacity="0.55"/>
   <text x="200" y="290" text-anchor="middle" fill="#E8C47A" font-family="Georgia, serif" font-size="22" letter-spacing="4">BOOK</text>
-  <text x="200" y="330" text-anchor="middle" fill="#A8C2C2" font-family="Arial, sans-serif" font-size="14">>1;>6:0 A:>@></text>
+  <text x="200" y="330" text-anchor="middle" fill="#A8C2C2" font-family="Arial, sans-serif" font-size="14">обложка скоро</text>
 </svg>
