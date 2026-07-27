@@ -11,7 +11,7 @@
       "number": 1,
       "title": "Кафе на краю земли",
       "title_raw": "Кафе на краю земли",
-      "author": "Bible",
+      "author": "Джон Стрелеки",
       "takeaway": "Ключевые идеи книги «Кафе на краю земли» — смысл, привычки и практические шаги. Краткий разбор в духе канала «Книги на миллион».",
       "cover": "covers/0001.jpg",
       "likes": 926,
@@ -19,7 +19,10 @@
       "views": 297500,
       "date": "July 10, 2018",
       "message_id": "15",
-      "hashtag": null
+      "hashtag": null,
+      "cover_remote": "https://covers.openlibrary.org/b/id/739909-L.jpg",
+      "cover_source": "openlibrary:739909",
+      "info_link": "https://openlibrary.org/works/OL17415484W"
     },
     {
       "number": 402,

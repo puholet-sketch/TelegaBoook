@@ -2,11 +2,11 @@
   "1": {
     "ok": true,
     "cover": "covers/0001.jpg",
-    "cover_url": "https://covers.openlibrary.org/b/id/12707846-L.jpg",
-    "author": "Bible",
-    "source": "openlibrary_en:q",
-    "matched_title": "Bible",
-    "en_title": "Cafe at the end of the earth"
+    "cover_url": "https://covers.openlibrary.org/b/id/739909-L.jpg",
+    "author": "John Strelecky",
+    "source": "manual_fix",
+    "matched_title": "The Café on The Edge of The World",
+    "en_title": "The Cafe on the Edge of the World"
   },
   "402": {
     "ok": true,
