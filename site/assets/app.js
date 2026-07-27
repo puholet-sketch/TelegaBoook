@@ -2,10 +2,14 @@ const state = {
   books: [],
   sort: "likes",
   query: "",
+  chartLimit: { likes: 8, views: 8, comments: 8 },
+  chartRanked: { likes: [], views: [], comments: [] },
+  chartsObserved: false,
 };
 
-const TOP_N = 8;
+const BATCH = 8;
 const $ = (sel) => document.querySelector(sel);
+const $$ = (sel) => [...document.querySelectorAll(sel)];
 
 function fmt(n) {
   return new Intl.NumberFormat("ru-RU").format(n || 0);
@@ -45,24 +49,28 @@ function filtered() {
   return sortBooks(list);
 }
 
-function topBy(metric) {
+function rankedBy(metric) {
   return [...state.books]
     .filter((b) => (b[metric] || 0) > 0)
-    .sort((a, b) => (b[metric] || 0) - (a[metric] || 0))
-    .slice(0, TOP_N);
+    .sort((a, b) => (b[metric] || 0) - (a[metric] || 0));
 }
 
-function renderChart(containerId, metric) {
+function renderChart(containerId, metric, { animate = false } = {}) {
   const el = $(containerId);
   if (!el) return;
-  const rows = topBy(metric);
-  const max = rows[0]?.[metric] || 1;
+
+  const all = state.chartRanked[metric];
+  const limit = state.chartLimit[metric];
+  const rows = all.slice(0, limit);
+  const max = all[0]?.[metric] || 1;
+  const remaining = Math.max(0, all.length - limit);
 
   el.innerHTML = rows
     .map((b, i) => {
       const value = b[metric] || 0;
       const pct = Math.max(4, Math.round((value / max) * 100));
       const short = (b.title || "").length > 42 ? `${b.title.slice(0, 40)}…` : b.title;
+      const delay = ((i % BATCH) * 0.05).toFixed(2);
       return `
         <div class="bar-row" title="${escapeHtml(b.title)} · ${fmt(value)}">
           <div class="bar-row__label">
@@ -70,24 +78,58 @@ function renderChart(containerId, metric) {
             <span class="bar-row__title">${escapeHtml(short)}</span>
           </div>
           <div class="bar-row__track" aria-hidden="true">
-            <div class="bar-row__fill" style="--w:${pct}%"></div>
+            <div class="bar-row__fill" style="--w:${pct}%; transition-delay:${delay}s"></div>
           </div>
           <div class="bar-row__value">${metric === "views" ? fmtCompact(value) : fmt(value)}</div>
         </div>`;
     })
     .join("");
+
+  const btn = $(`.chart-more[data-metric="${metric}"]`);
+  if (btn) {
+    if (remaining > 0) {
+      const next = Math.min(BATCH, remaining);
+      btn.hidden = false;
+      btn.textContent = remaining > BATCH ? `Ещё ${BATCH}` : `Ещё ${next}`;
+      btn.setAttribute("aria-label", `Показать ещё ${next} книг по ${metric}`);
+    } else {
+      btn.hidden = true;
+    }
+  }
+
+  if (animate) {
+    const section = $("#charts");
+    if (!section) return;
+    section.classList.remove("is-visible");
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => section.classList.add("is-visible"));
+    });
+  }
 }
 
-function renderCharts() {
-  renderChart("#chart-likes", "likes");
-  renderChart("#chart-views", "views");
-  renderChart("#chart-comments", "comments");
-  observeCharts();
+function renderCharts({ animate = false } = {}) {
+  state.chartRanked = {
+    likes: rankedBy("likes"),
+    views: rankedBy("views"),
+    comments: rankedBy("comments"),
+  };
+  renderChart("#chart-likes", "likes", { animate });
+  renderChart("#chart-views", "views", { animate });
+  renderChart("#chart-comments", "comments", { animate });
+  if (!state.chartsObserved) observeCharts();
+}
+
+function expandChart(metric) {
+  const all = state.chartRanked[metric] || rankedBy(metric);
+  if (state.chartLimit[metric] >= all.length) return;
+  state.chartLimit[metric] = Math.min(all.length, state.chartLimit[metric] + BATCH);
+  renderChart(`#chart-${metric}`, metric, { animate: true });
 }
 
 function observeCharts() {
   const section = $("#charts");
-  if (!section) return;
+  if (!section || state.chartsObserved) return;
+  state.chartsObserved = true;
 
   const reveal = () => section.classList.add("is-visible");
 
@@ -108,7 +150,7 @@ function observeCharts() {
         io.disconnect();
       }
     },
-    { threshold: 0.25 }
+    { threshold: 0.2 }
   );
   io.observe(section);
 }
@@ -168,6 +210,7 @@ async function boot() {
   if (!res.ok) throw new Error("Не удалось загрузить books.json");
   const payload = await res.json();
   state.books = payload.books || [];
+
   $("#search").addEventListener("input", (e) => {
     state.query = e.target.value;
     render();
@@ -176,6 +219,10 @@ async function boot() {
     state.sort = e.target.value;
     render();
   });
+  $$(".chart-more").forEach((btn) => {
+    btn.addEventListener("click", () => expandChart(btn.dataset.metric));
+  });
+
   renderCharts();
   render();
 }
